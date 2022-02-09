@@ -1,0 +1,6334 @@
+{
+"Sheet1":[
+ {
+  "Sl": 1,
+  "ApplicationId": "SCWB13022021\/125183",
+  "ApplicantName": "INDIRA DEBSARMA",
+  "FatherName": "ABANI DEBSARMA",
+  "SubCaste": "JALIA KAIBARTTA",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 1,
+  "person": "me"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "SCWB13022021\/98657",
+  "ApplicantName": "RAJA RUIDAS",
+  "FatherName": "SANDIP RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 2,
+  "person": "me"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "SCWB13022021\/142418",
+  "ApplicantName": "BIKASH BAGDI",
+  "FatherName": "BISWANATH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BIHAR PUSHKARINI",
+  "GP": "SASHAPUR",
+  "MainSl": 3,
+  "person": "me"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "SCWB13022021\/108522",
+  "ApplicantName": "UTTAM RUIDAS",
+  "FatherName": "BASUDEB RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "CHARIGRAM",
+  "GP": "SHASPUR",
+  "MainSl": 4,
+  "person": "me"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "SCWB13022021\/9274",
+  "ApplicantName": "RAJIB DOM",
+  "FatherName": "UTTAM DOM",
+  "SubCaste": "DOM",
+  "Village": "HALDI",
+  "GP": "SHASHPUR",
+  "MainSl": 5,
+  "person": "me"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "SCWB13022021\/88077",
+  "ApplicantName": "NIMAI PATRA",
+  "FatherName": "SHIBU PATRA",
+  "SubCaste": "DOM",
+  "Village": "BOROJPONTA",
+  "GP": "SAHASPUR",
+  "MainSl": 6,
+  "person": "me"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "SCWB13022021\/118708",
+  "ApplicantName": "NETAI RUIDAS",
+  "FatherName": "PRAHLAD RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "DHAMUR",
+  "GP": "SHASHPUR",
+  "MainSl": 7,
+  "person": "me"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "SCWB13022021\/111037",
+  "ApplicantName": "NANTI BAGDI",
+  "FatherName": "SAGAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 8,
+  "person": "me"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "SCWB13022021\/110151",
+  "ApplicantName": "MANGAL BAGDI",
+  "FatherName": "SHASHADHAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DAYARAMPUR",
+  "GP": "SAHASPUR GRAM PANCHAYAT",
+  "MainSl": 9,
+  "person": "me"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "SCWB13022021\/126026",
+  "ApplicantName": "RABINDRA NATH BAGDI",
+  "FatherName": "NALIN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 10,
+  "person": "me"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "SCWB13022021\/125272",
+  "ApplicantName": "DEB BAGDI",
+  "FatherName": "MUKTARAM BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SASHAPUR",
+  "MainSl": 11,
+  "person": "me"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "SCWB13022021\/125642",
+  "ApplicantName": "MUKTARAM BAGDI",
+  "FatherName": "LATE PURNA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SASHAPUR",
+  "MainSl": 12,
+  "person": "me"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "SCWB13022021\/108104",
+  "ApplicantName": "BIBEK BAGDI",
+  "FatherName": "DINESH BAGSI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 13,
+  "person": "me"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "SCWB13022021\/155537",
+  "ApplicantName": "LILU ROY",
+  "FatherName": "SUSHIL ROY",
+  "SubCaste": "BAGDI",
+  "Village": "NARAYANPUR",
+  "GP": "SASHAPUR",
+  "MainSl": 14,
+  "person": "me"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "SCWB13022021\/159605",
+  "ApplicantName": "CHANDAN RUIDAS",
+  "FatherName": "SHANTINATH RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 15,
+  "person": "me"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "SCWB13022021\/96696",
+  "ApplicantName": "BISHTU BAGDI",
+  "FatherName": "SUSHIL BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DHAMUR",
+  "GP": "SAHASPUR",
+  "MainSl": 16,
+  "person": "me"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "SCWB13022021\/147086",
+  "ApplicantName": "BILTU BAGDI",
+  "FatherName": "AJIT KUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 17,
+  "person": "me"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "SCWB13022021\/89834",
+  "ApplicantName": "HARADHAN PATRA",
+  "FatherName": "LATE NALIN CHANDRA PATRA",
+  "SubCaste": "DOM",
+  "Village": "KHORSEE",
+  "GP": "KHORSEE",
+  "MainSl": 18,
+  "person": "me"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "SCWB13022021\/152779",
+  "ApplicantName": "CHHOTTU BAGDI",
+  "FatherName": "KARTICK CHANDRA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SASHAPUR",
+  "MainSl": 19,
+  "person": "me"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "SCWB13022021\/155976",
+  "ApplicantName": "SACHI MAJHI",
+  "FatherName": "BIJAY MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "CHARIGRAM",
+  "GP": "SAHASHPUR",
+  "MainSl": 20,
+  "person": "me"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "SCWB13022021\/151831",
+  "ApplicantName": "MINTU BAGDI",
+  "FatherName": "BISWANATH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BERGHOSH",
+  "GP": "SHASHPUR",
+  "MainSl": 21,
+  "person": "me"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "SCWB13022021\/158138",
+  "ApplicantName": "SURAJIT BAGDI",
+  "FatherName": "MADHAB BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BERGHOSH",
+  "GP": "SHASHPUR",
+  "MainSl": 22,
+  "person": "me"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "SCWB13022021\/153360",
+  "ApplicantName": "DHANANJOY BAGDI",
+  "FatherName": "ASHOKE BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 23,
+  "person": "me"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "SCWB13022021\/160358",
+  "ApplicantName": "DILIP RUIDAS",
+  "FatherName": "SUBAL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "DHAMUR",
+  "GP": "SHASHPUR",
+  "MainSl": 24,
+  "person": "me"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "SCWB13022021\/111846",
+  "ApplicantName": "RAMPRASAD RUIDAS",
+  "FatherName": "AJIT RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "RATRA",
+  "GP": "AKUI II G. P",
+  "MainSl": 25,
+  "person": "me"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "SCWB13022021\/49109",
+  "ApplicantName": "RUPCHAND ROY",
+  "FatherName": "LATE LALIN CHANDRA ROY",
+  "SubCaste": "BAGDI",
+  "Village": "RATRA",
+  "GP": "AKUI 2",
+  "MainSl": 26,
+  "person": "me"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "SCWB13022021\/105339",
+  "ApplicantName": "MANTU BAGDI",
+  "FatherName": "KHOKAN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SHASHPUR",
+  "MainSl": 27,
+  "person": "me"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "SCWB13022021\/115368",
+  "ApplicantName": "AMAR ROY",
+  "FatherName": "TARAPADA ROY",
+  "SubCaste": "BAGDI",
+  "Village": "AKUI",
+  "GP": "AKUI I",
+  "MainSl": 28,
+  "person": "me"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "SCWB13022021\/95965",
+  "ApplicantName": "MADHUSUDAN ROY",
+  "FatherName": "RABI ROY",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 29,
+  "person": "me"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "SCWB13022021\/139609",
+  "ApplicantName": "LAKSHMAN BAG",
+  "FatherName": "RABI BAG",
+  "SubCaste": "JALIA KAIBARTTA",
+  "Village": "ARAPUR",
+  "GP": "SASHAPUR",
+  "MainSl": 30,
+  "person": "me"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "SCWB13022021\/9263",
+  "ApplicantName": "SANJAY DOM",
+  "FatherName": "UTTAM DOM",
+  "SubCaste": "DOM",
+  "Village": "HALDI",
+  "GP": "SHASHPUR",
+  "MainSl": 31,
+  "person": "me"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "SCWB13022021\/117593",
+  "ApplicantName": "NABAB DOM",
+  "FatherName": "BAPI DOM",
+  "SubCaste": "DOM",
+  "Village": "HALDI",
+  "GP": "SHASHPUR",
+  "MainSl": 32,
+  "person": "me"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "SCWB13022021\/132844",
+  "ApplicantName": "SRIMANTA HAZRA",
+  "FatherName": "GANESH HAZRA",
+  "SubCaste": "HARI",
+  "Village": "AKUI",
+  "GP": "AKUI NO 1 GRAM PANCHAYET",
+  "MainSl": 33,
+  "person": "me"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "SCWB13022021\/82613",
+  "ApplicantName": "ASIT KUMAR BAGDI",
+  "FatherName": "SUKUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 34,
+  "person": "me"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "SCWB13022021\/83811",
+  "ApplicantName": "PRAKASH BAGDI",
+  "FatherName": "SUKUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 35,
+  "person": "me"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "SCWB13022021\/50276",
+  "ApplicantName": "PRABHAT BAGDI",
+  "FatherName": "PRAKASH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 36,
+  "person": "me"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "SCWB13022021\/64262",
+  "ApplicantName": "KRISHNA RUIDAS",
+  "FatherName": "KARTICK RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 37,
+  "person": "me"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "SCWB13022021\/132239",
+  "ApplicantName": "SWAPAN BAGDI",
+  "FatherName": "LATE DURGA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 38,
+  "person": "me"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "SCWB13022021\/135022",
+  "ApplicantName": "PRASENJIT BAGDI",
+  "FatherName": "ARUN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BERGHOSH",
+  "GP": "SHASHPUR",
+  "MainSl": 39,
+  "person": "me"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "SCWB13022021\/141766",
+  "ApplicantName": "SANATAN KALINDI",
+  "FatherName": "LATE SADHAN KALINDI",
+  "SubCaste": "DOM",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 40,
+  "person": "me"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "SCWB13022021\/93520",
+  "ApplicantName": "RAJA DIGER",
+  "FatherName": "BILTU DIGER",
+  "SubCaste": "DOM",
+  "Village": "SHASHPUR",
+  "GP": "SAHASPUR GP",
+  "MainSl": 41,
+  "person": "me"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "SCWB13022021\/141535",
+  "ApplicantName": "DULAL RUIDAS",
+  "FatherName": "SUFAL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 42,
+  "person": "me"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "SCWB13022021\/129406",
+  "ApplicantName": "UTTAM BAGDI",
+  "FatherName": "LATE KSHUDIRAM BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BIHARPUSHKURINI",
+  "GP": "SHASHPUR",
+  "MainSl": 43,
+  "person": "me"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "SCWB13022021\/140654",
+  "ApplicantName": "SUBHASH CHANDRA DAS",
+  "FatherName": "LATE SHAKTIPADA DAS",
+  "SubCaste": "JALIA KAIBARTTA",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR GP",
+  "MainSl": 44,
+  "person": "me"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "SCWB13022021\/106400",
+  "ApplicantName": "SRIKANTA BAGDI",
+  "FatherName": "LATE BISHNUPADA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR GP",
+  "MainSl": 45,
+  "person": "me"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "SCWB13022021\/138354",
+  "ApplicantName": "PROMAS BAGDI",
+  "FatherName": "PRASANTA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 46,
+  "person": "me"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "SCWB13022021\/99530",
+  "ApplicantName": "KRISHNA ROY",
+  "FatherName": "LATE RAM CHANDRA ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2",
+  "MainSl": 47,
+  "person": "me"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "SCWB13022021\/99393",
+  "ApplicantName": "PRADIP ROY",
+  "FatherName": "KRISHNA ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "KHORSEE",
+  "MainSl": 48,
+  "person": "me"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "SCWB13022021\/92913",
+  "ApplicantName": "BAPAN PATRA",
+  "FatherName": "KINKAR PATRA",
+  "SubCaste": "DOM",
+  "Village": "KHARSI",
+  "GP": "AKUI II",
+  "MainSl": 49,
+  "person": "me"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "SCWB13022021\/152057",
+  "ApplicantName": "BACHAN MAJHI",
+  "FatherName": "AJIT MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "CHARIGRAM",
+  "GP": "SAHASPUR",
+  "MainSl": 50,
+  "person": "me"
+ },
+ {
+  "Sl": 1,
+  "ApplicationId": "OBCWB13022021\/14407",
+  "ApplicantName": "MALAY GHOSH",
+  "FatherName": "ASISH GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "BIRASHIMUL",
+  "GP": "x",
+  "MainSl": 51,
+  "person": "me"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "OBCWB13022021\/14119",
+  "ApplicantName": "SK GOLAP",
+  "FatherName": "SK ILIYAS",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPAL NAGAR",
+  "GP": "x",
+  "MainSl": 52,
+  "person": "me"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "OBCWB13022021\/12001",
+  "ApplicantName": "AFRIN KHATUN MIDDA",
+  "FatherName": "DHANWAR HOSSAIN MIDDYA",
+  "SubCaste": "Midde",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 53,
+  "person": "me"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "OBCWB13022021\/14208",
+  "ApplicantName": "JYOTI GHOSH",
+  "FatherName": "SAHAR GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 54,
+  "person": "me"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "OBCWB13022021\/17469",
+  "ApplicantName": "SEKH BASIRUDDIN",
+  "FatherName": "SEKH HASEN ALI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALPUR",
+  "GP": "x",
+  "MainSl": 55,
+  "person": "me"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "OBCWB13022021\/12437",
+  "ApplicantName": "BASIRA KHATUN",
+  "FatherName": "SK BORJAHAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 56,
+  "person": "me"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "OBCWB13022021\/13611",
+  "ApplicantName": "SK RIAZ",
+  "FatherName": "SK JIARUL",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 57,
+  "person": "me"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "OBCWB13022021\/13825",
+  "ApplicantName": "AKASH GHOSH",
+  "FatherName": "KRISHNAPADA GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 58,
+  "person": "me"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "OBCWB13022021\/14279",
+  "ApplicantName": "SK LACLHAND",
+  "FatherName": "SK RAHAMAT",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPAL NAGAR",
+  "GP": "x",
+  "MainSl": 59,
+  "person": "me"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "OBCWB13022021\/9317",
+  "ApplicantName": "SK BORJAHAN",
+  "FatherName": "SK SAHIRAB",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 60,
+  "person": "me"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "OBCWB13022021\/13988",
+  "ApplicantName": "JARINA BEGAM",
+  "FatherName": "KAMAL MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "DARIARCHAK",
+  "GP": "x",
+  "MainSl": 61,
+  "person": "me"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "OBCWB13022021\/10637",
+  "ApplicantName": "SONIYA KHATUN",
+  "FatherName": "MAFIK MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "x",
+  "MainSl": 62,
+  "person": "me"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "OBCWB13022021\/10635",
+  "ApplicantName": "RUBINA KHATUN",
+  "FatherName": "MAFIK MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "x",
+  "MainSl": 63,
+  "person": "me"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "OBCWB13022021\/13461",
+  "ApplicantName": "NASRIN PARVIN",
+  "FatherName": "MUJIBAR HOSSAIN MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATHBATI",
+  "GP": "x",
+  "MainSl": 64,
+  "person": "me"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "OBCWB13022015\/4883",
+  "ApplicantName": "MANIDIPA SULTANA",
+  "FatherName": "HASMAT ALI MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATHBATI",
+  "GP": "x",
+  "MainSl": 65,
+  "person": "me"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "OBCWB13022021\/10940",
+  "ApplicantName": "SK AZHARUDDIN",
+  "FatherName": "SEKH MAHIUDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "FATIKA",
+  "GP": "x",
+  "MainSl": 66,
+  "person": "me"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "OBCWB13022021\/13666",
+  "ApplicantName": "SAHIBA KHATUN",
+  "FatherName": "SK MANTU",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "x",
+  "MainSl": 67,
+  "person": "me"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "OBCWB13022021\/13667",
+  "ApplicantName": "SK YOUSUF",
+  "FatherName": "SK MANTU",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "x",
+  "MainSl": 68,
+  "person": "me"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "OBCWB13022021\/11997",
+  "ApplicantName": "RIYAJ HOSSAIN MIDYA",
+  "FatherName": "DHANUAR HOSSAIN MIDYA",
+  "SubCaste": "Midde",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 69,
+  "person": "me"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "OBCWB13022021\/12725",
+  "ApplicantName": "RUPSA KHATUN",
+  "FatherName": "RIJAUL MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "x",
+  "MainSl": 70,
+  "person": "me"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "OBCWB13022021\/12738",
+  "ApplicantName": "SAIFUL MALLICK",
+  "FatherName": "RIJAUL MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "x",
+  "MainSl": 71,
+  "person": "me"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "OBCWB13022021\/11169",
+  "ApplicantName": "SK SAHIDUL HOSSAIN",
+  "FatherName": "SK SAIFUL HOSSAIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "THAKURANI DIGHI",
+  "GP": "x",
+  "MainSl": 72,
+  "person": "me"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "OBCWB13022021\/13508",
+  "ApplicantName": "KAZI SAIDUL",
+  "FatherName": "KAZI MAJFAR",
+  "SubCaste": "Kazi\/Kaji\/Quazi\/Quaji (Muslim)",
+  "Village": "AUSHNARA",
+  "GP": "x",
+  "MainSl": 73,
+  "person": "me"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "OBCWB13022021\/10134",
+  "ApplicantName": "SK AKIB HOSSAIN",
+  "FatherName": "SK AMIR HOSSAIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOYALA PUSHKARINI",
+  "GP": "x",
+  "MainSl": 74,
+  "person": "me"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "OBCWB13022021\/11170",
+  "ApplicantName": "SK SABIR HOSSAIN",
+  "FatherName": "SK SAIFUL HOSSAIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "THAKURANI DIGHI",
+  "GP": "x",
+  "MainSl": 75,
+  "person": "me"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "OBCWB13022021\/13962",
+  "ApplicantName": "SANIA KHATUN",
+  "FatherName": "ASGAR MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "GOYALA PUSHKARINI",
+  "GP": "x",
+  "MainSl": 76,
+  "person": "me"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "OBCWB13022021\/13668",
+  "ApplicantName": "KUTUBUDDIN MONDAL",
+  "FatherName": "SAMAD MONDAL",
+  "SubCaste": "Muslim Mandal",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 77,
+  "person": "me"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "OBCWB13022021\/13980",
+  "ApplicantName": "SEKH NAZRUL",
+  "FatherName": "SEKH ISLAM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 78,
+  "person": "me"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "OBCWB13022021\/14121",
+  "ApplicantName": "PAYEL GHOSH",
+  "FatherName": "SRIMANTA GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 79,
+  "person": "me"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "OBCWB13022021\/11456",
+  "ApplicantName": "ANJURA BEGAM",
+  "FatherName": "ISLAM MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 80,
+  "person": "me"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "OBCWB13022021\/13670",
+  "ApplicantName": "FENCY KHATUN",
+  "FatherName": "SK ABBASUDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 81,
+  "person": "me"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "OBCWB13022021\/13005",
+  "ApplicantName": "SK SAHAJAHAN",
+  "FatherName": "FOKU SEKH",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "x",
+  "MainSl": 82,
+  "person": "me"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "OBCWB13022021\/12931",
+  "ApplicantName": "SK ALAUDDIN",
+  "FatherName": "LATE SK ABDUL JABBAR",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 83,
+  "person": "me"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "OBCWB13022021\/14078",
+  "ApplicantName": "SEKH FEROZ",
+  "FatherName": "SEKH NURUL",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "x",
+  "MainSl": 84,
+  "person": "me"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "OBCWB13022021\/14274",
+  "ApplicantName": "SEKH PARVIN",
+  "FatherName": "SEKH FEROZ",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "x",
+  "MainSl": 85,
+  "person": "me"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "OBCWB13022021\/15076",
+  "ApplicantName": "SK ATIYAR RAHAMAN",
+  "FatherName": "LATE JELLER RAHAMAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOYALA PUSHKARINI",
+  "GP": "x",
+  "MainSl": 86,
+  "person": "me"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "OBCWB13022021\/13071",
+  "ApplicantName": "SIRAJUL HOSSAIN MALLIK",
+  "FatherName": "MANOWAR HOSSAIN MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "KUMRUL",
+  "GP": "x",
+  "MainSl": 87,
+  "person": "me"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "OBCWB13022021\/13761",
+  "ApplicantName": "SK YEASIN",
+  "FatherName": "SK SAHA ALAM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 88,
+  "person": "me"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "OBCWB13022021\/11916",
+  "ApplicantName": "FULMONI BEGAM SK",
+  "FatherName": "SK AYNAL",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "x",
+  "MainSl": 89,
+  "person": "me"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "OBCWB13022021\/9965",
+  "ApplicantName": "SURIYA KHATUN",
+  "FatherName": "SK SURBAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 90,
+  "person": "me"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "OBCWB13022021\/12818",
+  "ApplicantName": "TAIHID MALLICK",
+  "FatherName": "SHANTI MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "ROL",
+  "GP": "x",
+  "MainSl": 91,
+  "person": "me"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "OBCWB13022021\/8027",
+  "ApplicantName": "NIRMAL KUMAR GHOSH",
+  "FatherName": "GADADHAR GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "KHARRAH",
+  "GP": "x",
+  "MainSl": 92,
+  "person": "me"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "OBCWB13022021\/8028",
+  "ApplicantName": "KIRAN KUMAR GHOSH",
+  "FatherName": "GADADHAR GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "KHARRAH",
+  "GP": "x",
+  "MainSl": 93,
+  "person": "me"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "OBCWB13022021\/10892",
+  "ApplicantName": "SEKH SAPIUR RAHAMAN",
+  "FatherName": "SEKH MOHAMMAD HOSSAIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "BATHANIA",
+  "GP": "x",
+  "MainSl": 94,
+  "person": "me"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "OBCWB13022021\/10901",
+  "ApplicantName": "SEKH TOWFIK",
+  "FatherName": "SEKH SAPIUR RAHAMAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "BATHANIA",
+  "GP": "x",
+  "MainSl": 95,
+  "person": "me"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "OBCWB13022021\/12084",
+  "ApplicantName": "HRIDAY PAL",
+  "FatherName": "MADHAB PAL",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "DHAMUR",
+  "GP": "x",
+  "MainSl": 96,
+  "person": "me"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "OBCWB13022021\/12090",
+  "ApplicantName": "SANCHITA PAL",
+  "FatherName": "DEBU PAL",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "DHAMUR",
+  "GP": "x",
+  "MainSl": 97,
+  "person": "me"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "OBCWB13022021\/12971",
+  "ApplicantName": "SK SALMAN",
+  "FatherName": "SAFIKUL SK",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "x",
+  "MainSl": 98,
+  "person": "me"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "OBCWB13022021\/13442",
+  "ApplicantName": "KERAMATALI SEKH",
+  "FatherName": "OLIJAN SEKH",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "BATHANIA",
+  "GP": "x",
+  "MainSl": 99,
+  "person": "me"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "OBCWB13022021\/14007",
+  "ApplicantName": "RUBINA KHATUN",
+  "FatherName": "SK BAPI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DHARAMPUR",
+  "GP": "x",
+  "MainSl": 100,
+  "person": "me"
+ },
+ {
+  "Sl": 1,
+  "ApplicationId": "OBCWB13022021\/11649",
+  "ApplicantName": "SK AJFAR ALI",
+  "FatherName": "LATE SK MOZAMMEL HAQUE",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "AKUI 2",
+  "MainSl": 101,
+  "person": "me"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "OBCWB13022021\/12158",
+  "ApplicantName": "SAHID MALLICK",
+  "FatherName": "ASROF ALI MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 102,
+  "person": "me"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "OBCWB13022021\/11168",
+  "ApplicantName": "ACHINTA KARMAKAR",
+  "FatherName": "DEBU KARMAKAR",
+  "SubCaste": "Karmakar",
+  "Village": "SHALIKONA",
+  "GP": "AKUI 2",
+  "MainSl": 103,
+  "person": "me"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "OBCWB13022021\/12670",
+  "ApplicantName": "PAPIYA KHATUN",
+  "FatherName": "SEKH SUKUR",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "KHARSHI",
+  "GP": "AKUI 2",
+  "MainSl": 104,
+  "person": "me"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "OBCWB13022021\/12139",
+  "ApplicantName": "SAMSUR NEHAR MALLICK",
+  "FatherName": "AKBAR MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "BATHANIA",
+  "GP": "SAHASPUR",
+  "MainSl": 105,
+  "person": "me"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "OBCWB13022021\/13708",
+  "ApplicantName": "RINKU DE DUTTA",
+  "FatherName": "BISWANATH DEY",
+  "SubCaste": "Tamboli \/ Tamali",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 106,
+  "person": "me"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "OBCWB13022021\/13104",
+  "ApplicantName": "AMIT MONDAL",
+  "FatherName": "SUKUMAR MONDAL",
+  "SubCaste": "Napit",
+  "Village": "JASHDIGHI",
+  "GP": "MANGALPUR G. P",
+  "MainSl": 107,
+  "person": "me"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "OBCWB13022021\/10753",
+  "ApplicantName": "SONALI KARMAKAR",
+  "FatherName": "PRABHAT KARMAKAR",
+  "SubCaste": "Karmakar",
+  "Village": "KHATNAGAR",
+  "GP": "MANGALPUR",
+  "MainSl": 108,
+  "person": "me"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "OBCWB13022021\/9960",
+  "ApplicantName": "MRINMAY MONDAL",
+  "FatherName": "KAJAL KUMAR MONDAL",
+  "SubCaste": "Napit",
+  "Village": "JASHDIGHI",
+  "GP": "MANGALPUR",
+  "MainSl": 109,
+  "person": "me"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "OBCWB13022021\/12304",
+  "ApplicantName": "PRABHAT KARMAKAR",
+  "FatherName": "RABINDRA NATH KARMAKAR",
+  "SubCaste": "Karmakar",
+  "Village": "KHATNAGAR",
+  "GP": "MANGALPUR",
+  "MainSl": 110,
+  "person": "me"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "OBCWB13022021\/11804",
+  "ApplicantName": "REEJUANA KHATUN",
+  "FatherName": "SK BADSHA",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DHARAMPUR",
+  "GP": "SAHASPUR",
+  "MainSl": 111,
+  "person": "me"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "OBCWB13022018\/3328",
+  "ApplicantName": "AKLIMA KHATUN",
+  "FatherName": "SEKH EKRAM HOSSAIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "KUSHMURI",
+  "GP": "MANGALPUR",
+  "MainSl": 112,
+  "person": "me"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "OBCWB13022018\/4023",
+  "ApplicantName": "NURSUMA KHATUN",
+  "FatherName": "GOLAM MOSTAFA MONDAL",
+  "SubCaste": "Muslim Mandal",
+  "Village": "KUSHMURI",
+  "GP": "MANGALPUR",
+  "MainSl": 113,
+  "person": "me"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "OBCWB13022021\/14452",
+  "ApplicantName": "ANAM KHATUN",
+  "FatherName": "SK ANISUR RAHAMAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "KUSHMURI",
+  "GP": "MANGALPUR",
+  "MainSl": 114,
+  "person": "me"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "OBCWB13022021\/11007",
+  "ApplicantName": "AFRIN ISLAM",
+  "FatherName": "MAHAMUDAR NOBI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "SHANKRUL",
+  "GP": "ROL",
+  "MainSl": 115,
+  "person": "me"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "OBCWB13022021\/5492",
+  "ApplicantName": "RAJIB LAYEK",
+  "FatherName": "KEPHAYETULLA LAYEK",
+  "SubCaste": "Layek (Muslim)",
+  "Village": "KUSHMURI",
+  "GP": "MANGALPUR",
+  "MainSl": 116,
+  "person": "me"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "OBCWB13022021\/13265",
+  "ApplicantName": "BOBY CHANDRA",
+  "FatherName": "AMIYA CHANDRA",
+  "SubCaste": "Karmakar",
+  "Village": "DONGALAN",
+  "GP": "SHASHPUR",
+  "MainSl": 117,
+  "person": "me"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "OBCWB13022021\/13808",
+  "ApplicantName": "SAMIRUDDIN MALLIK",
+  "FatherName": "INTAJUL HAQUE MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "GOALA PUSHKARINI",
+  "GP": "SAHASPUR",
+  "MainSl": 118,
+  "person": "me"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "OBCWB13022021\/9751",
+  "ApplicantName": "KHADIJA BEGAM",
+  "FatherName": "SK ABDUL MATLEB",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "BEHAR",
+  "GP": "MANGALPUR",
+  "MainSl": 119,
+  "person": "me"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "OBCWB13022021\/12046",
+  "ApplicantName": "SONALI BEGAM",
+  "FatherName": "SABEDA ALI MALLIK",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 120,
+  "person": "me"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "OBCWB13022021\/14283",
+  "ApplicantName": "MD AJIJUR RAHAMAN MALLIK",
+  "FatherName": "HASIBUL MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "ROL",
+  "GP": "ROL",
+  "MainSl": 121,
+  "person": "me"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "OBCWB13022021\/11459",
+  "ApplicantName": "TANYAR MIDYA",
+  "FatherName": "SOMSER MIDYA",
+  "SubCaste": "Midde",
+  "Village": "GOPALNAGAR",
+  "GP": "ROLL",
+  "MainSl": 122,
+  "person": "me"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "OBCWB13022021\/13671",
+  "ApplicantName": "SARIFUDDIN MALLICK",
+  "FatherName": "LATE BORJAHAN MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "ROL",
+  "GP": "ROL",
+  "MainSl": 123,
+  "person": "me"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "OBCWB13022021\/10816",
+  "ApplicantName": "SUMONA KHATUN",
+  "FatherName": "SK ABBASUDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "MAHESHPUR",
+  "GP": "MANGALPUR G. P",
+  "MainSl": 124,
+  "person": "me"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "OBCWB13022021\/14152",
+  "ApplicantName": "SIMRAN SULTANA",
+  "FatherName": "GOLAM MUSTAFA",
+  "SubCaste": "Muslim Mandal",
+  "Village": "KUSHMURI",
+  "GP": "MANGALPUR",
+  "MainSl": 125,
+  "person": "me"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "OBCWB13022021\/20184",
+  "ApplicantName": "AHAN GHOSH",
+  "FatherName": "SWARUP GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "PANTRAI",
+  "GP": "AMRUL",
+  "MainSl": 126,
+  "person": "me"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "OBCWB13022021\/12238",
+  "ApplicantName": "AKASH GHOSH",
+  "FatherName": "SASTHI GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "PANTRAI",
+  "GP": "AMRUL",
+  "MainSl": 127,
+  "person": "me"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "OBCWB13022021\/13866",
+  "ApplicantName": "SK MANIK CHAND",
+  "FatherName": "SK ANOWER",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 128,
+  "person": "me"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "OBCWB13022021\/14893",
+  "ApplicantName": "SK MD AZIM",
+  "FatherName": "SK AJFAR",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 129,
+  "person": "me"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "OBCWB13022021\/8761",
+  "ApplicantName": "PRIYA CHEL",
+  "FatherName": "PRASENJIT CHEL",
+  "SubCaste": "Tamboli \/ Tamali",
+  "Village": "KHOSBAG",
+  "GP": "INDAS II",
+  "MainSl": 130,
+  "person": "me"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "OBCWB13022021\/10670",
+  "ApplicantName": "JESHMIN KHATUN",
+  "FatherName": "MD BASIR AHAMED",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "KUMRUL",
+  "GP": "INDAS II",
+  "MainSl": 131,
+  "person": "me"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "OBCWB13022021\/9914",
+  "ApplicantName": "JESMIN KHATUN",
+  "FatherName": "SEKH ANARUL",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "JEJARPAR",
+  "GP": "INDAS II",
+  "MainSl": 132,
+  "person": "me"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "OBCWB13022021\/10674",
+  "ApplicantName": "NASRIN KHATUN",
+  "FatherName": "MD BASIR AHAMED",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "KUMRUL",
+  "GP": "INDAS II",
+  "MainSl": 133,
+  "person": "me"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "OBCWB13022021\/11368",
+  "ApplicantName": "KUTUBUDDIN MIDYA",
+  "FatherName": "MANNAN MIDYA",
+  "SubCaste": "Midde",
+  "Village": "PALASHDANGA",
+  "GP": "ROL",
+  "MainSl": 134,
+  "person": "me"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "OBCWB13022021\/12937",
+  "ApplicantName": "RAJIB MALLICK",
+  "FatherName": "BABU MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOYALA PUSHKARINI",
+  "GP": "SHASHPUR GP",
+  "MainSl": 135,
+  "person": "me"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "OBCWB13022021\/12919",
+  "ApplicantName": "BABU MALLICK",
+  "FatherName": "DARBESH MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOYALA PUSHKARINI",
+  "GP": "SHASHPUR GP",
+  "MainSl": 136,
+  "person": "me"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "OBCWB13022021\/13215",
+  "ApplicantName": "SK IBRAHIM",
+  "FatherName": "SK ABUSIDDIK",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "AKUI 2",
+  "MainSl": 137,
+  "person": "me"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "OBCWB13022021\/13075",
+  "ApplicantName": "MAHIRA KHATUN",
+  "FatherName": "JIYAUDDIN SEKH",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 138,
+  "person": "me"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "OBCWB13022021\/13658",
+  "ApplicantName": "SK TAHID",
+  "FatherName": "SK BOSIR ALI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 139,
+  "person": "me"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "OBCWB13022021\/13082",
+  "ApplicantName": "SK SAHID RAHAMAN",
+  "FatherName": "SK BASIR ALI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 140,
+  "person": "me"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "OBCWB13022021\/13069",
+  "ApplicantName": "SK SARAFUDDIN",
+  "FatherName": "SK JIYAUDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 141,
+  "person": "me"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "OBCWB13022021\/12646",
+  "ApplicantName": "PARI KHATUN",
+  "FatherName": "SK ABDUL ROHIM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DHARMAPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 142,
+  "person": "me"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "OBCWB13022021\/10220",
+  "ApplicantName": "MOHOSINA BEGAM",
+  "FatherName": "QUAMRUL HODA HAZARI",
+  "SubCaste": "Hazari (Muslim)",
+  "Village": "PUNJUR",
+  "GP": "KHARSI",
+  "MainSl": 143,
+  "person": "me"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "OBCWB13022021\/15013",
+  "ApplicantName": "SERINA BEGAM SEKH",
+  "FatherName": "SK NIYAKAT",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 144,
+  "person": "me"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "OBCWB13022021\/14401",
+  "ApplicantName": "SK LMRAN HOSSAIN",
+  "FatherName": "SK AZFAR ALI",
+  "SubCaste": "Nashya-Sekh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 145,
+  "person": "me"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "OBCWB13022019\/2878",
+  "ApplicantName": "NOURIN NIGAR",
+  "FatherName": "SK JAHANGIR",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "FATIKA",
+  "GP": "ROL",
+  "MainSl": 146,
+  "person": "me"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "OBCWB13022021\/12845",
+  "ApplicantName": "SK IMRAJUDDN",
+  "FatherName": "SK ALAUDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 147,
+  "person": "me"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "OBCWB13022021\/13638",
+  "ApplicantName": "SEKH MAJAHFAR ALI",
+  "FatherName": "SEKH TAIYAB ALI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI II",
+  "MainSl": 148,
+  "person": "me"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "OBCWB13022021\/15226",
+  "ApplicantName": "KASHMIRA KHATUN",
+  "FatherName": "SK KAJEM UDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 149,
+  "person": "me"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "OBCWB13022021\/14197",
+  "ApplicantName": "SABANA IASMIN",
+  "FatherName": "SK JALAUDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "ROL",
+  "GP": "ROL",
+  "MainSl": 150,
+  "person": "me"
+ },
+ {
+  "Sl": 1,
+  "ApplicationId": "OBCWB13022021\/14394",
+  "ApplicantName": "NITYANADA GHOSH",
+  "FatherName": "UTPAL GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 151,
+  "person": "bsk"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "OBCWB13022021\/10587",
+  "ApplicantName": "AHANA DEY",
+  "FatherName": "ATONU DEY",
+  "SubCaste": "Tamboli \/ Tamali",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 152,
+  "person": "bsk"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "OBCWB13022021\/14794",
+  "ApplicantName": "SHYAMA PROSAD DAS",
+  "FatherName": "SRIKANTA DASS",
+  "SubCaste": "Napit",
+  "Village": "AKUI",
+  "GP": "AKUI 1",
+  "MainSl": 153,
+  "person": "bsk"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "OBCWB13022021\/15719",
+  "ApplicantName": "NASIRUL HAQUE MALLIK",
+  "FatherName": "LATE MEHER ALAM MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOYALA PUSHKARINI",
+  "GP": "SHASHPUR",
+  "MainSl": 154,
+  "person": "bsk"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "OBCWB13022021\/15703",
+  "ApplicantName": "INAMUL HAQUE MALLIK",
+  "FatherName": "LATE MEHER ALAM MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOYALAPUSHKARINI",
+  "GP": "SHASHPUR",
+  "MainSl": 155,
+  "person": "bsk"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "OBCWB13022021\/12564",
+  "ApplicantName": "TASLIM MALLICK",
+  "FatherName": "HAFIZ ALI MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 156,
+  "person": "bsk"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "OBCWB13022021\/18021",
+  "ApplicantName": "SK GOLAM JIKRIYA",
+  "FatherName": "MAHAMMAD MAHASIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "CHAK RABIA",
+  "GP": "SAHASPUR",
+  "MainSl": 157,
+  "person": "bsk"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "OBCWB13022021\/12533",
+  "ApplicantName": "HAMIDA SULTANA",
+  "FatherName": "HAFIZ ALI MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 158,
+  "person": "bsk"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "OBCWB13022021\/12549",
+  "ApplicantName": "HADISA SULTANA",
+  "FatherName": "HAFIZ ALI MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "DASARATH BATI",
+  "GP": "KARIUNDA",
+  "MainSl": 159,
+  "person": "bsk"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "OBCWB13022021\/13242",
+  "ApplicantName": "SUSMITA KHAN",
+  "FatherName": "SANAT KUMAR KHAN",
+  "SubCaste": "Napit",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 160,
+  "person": "bsk"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "OBCWB13022021\/18008",
+  "ApplicantName": "TAJNIHARA BEGAM",
+  "FatherName": "SK SUBHAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "CHAK RABIA",
+  "GP": "SAHASPUR",
+  "MainSl": 161,
+  "person": "bsk"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "OBCWB13022021\/10766",
+  "ApplicantName": "SK SAHIDUL ISLAM",
+  "FatherName": "SK SAMSUL ISLAM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "FATIKA",
+  "GP": "ROL",
+  "MainSl": 162,
+  "person": "bsk"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "OBCWB13022021\/12914",
+  "ApplicantName": "SK ABID HASSAN",
+  "FatherName": "SK ABDUL RAHAMAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 163,
+  "person": "bsk"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "OBCWB13022021\/14399",
+  "ApplicantName": "HASIB MIDYA",
+  "FatherName": "SANOWAR HOSSAIN MIDYA",
+  "SubCaste": "Midde",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 164,
+  "person": "bsk"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "OBCWB13022021\/12899",
+  "ApplicantName": "SUHANA KHATUN",
+  "FatherName": "SK ABU KALAM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 165,
+  "person": "bsk"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "OBCWB13022021\/7468",
+  "ApplicantName": "ABHIJIT GHOSH",
+  "FatherName": "PRASANTA GHOSH",
+  "SubCaste": "Goala,Gope (Pallav Gope, Ballav Gope, Yadav Gope, Gope, Ahir and Yadav.)",
+  "Village": "TENTULMURI",
+  "GP": "KARISUNDA",
+  "MainSl": 166,
+  "person": "bsk"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "OBCWB13022021\/10120",
+  "ApplicantName": "ANISHA KHATUN",
+  "FatherName": "JAHANGIR MANDAL",
+  "SubCaste": "Muslim Mandal",
+  "Village": "DASARATHBATI",
+  "GP": "KARISUNDA",
+  "MainSl": 167,
+  "person": "bsk"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "OBCWB13022021\/10118",
+  "ApplicantName": "YASIN MONDAL",
+  "FatherName": "JAHANGIR MONDAL",
+  "SubCaste": "Muslim Mandal",
+  "Village": "DASARATHBATI",
+  "GP": "KARISUNDA",
+  "MainSl": 168,
+  "person": "bsk"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "OBCWB13022021\/12933",
+  "ApplicantName": "SK RIAJUDDIN",
+  "FatherName": "SK ABU KALAM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 169,
+  "person": "bsk"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "OBCWB13022021\/10722",
+  "ApplicantName": "ASMANTARA KHATUN",
+  "FatherName": "SK MITHU",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "KHOSBAG",
+  "GP": "INDAS II",
+  "MainSl": 170,
+  "person": "bsk"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "OBCWB13022021\/12418",
+  "ApplicantName": "MABUDA BEGAM",
+  "FatherName": "SK MOJAMMAN HAQUE",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "AKU II",
+  "MainSl": 171,
+  "person": "bsk"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "OBCWB13022021\/17275",
+  "ApplicantName": "SALMA BEGAM",
+  "FatherName": "SEKH SALA UDDIN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "CHICHINGA",
+  "GP": "ROL",
+  "MainSl": 172,
+  "person": "bsk"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "OBCWB13022021\/12274",
+  "ApplicantName": "FULTUSI KHATUN",
+  "FatherName": "SK ROYSON",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "PUNJUR",
+  "GP": "KHARSI",
+  "MainSl": 173,
+  "person": "bsk"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "OBCWB13022021\/12382",
+  "ApplicantName": "SEKH ISANUR",
+  "FatherName": "ABUL HOSSAIN MALLICK",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "AKUI II",
+  "MainSl": 174,
+  "person": "bsk"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "OBCWB13022021\/11962",
+  "ApplicantName": "KAMRUNNESHA KHATUN",
+  "FatherName": "SK ROWSAN ALI",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "NARRAH",
+  "GP": "AKUI 2",
+  "MainSl": 175,
+  "person": "bsk"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "OBCWB13022021\/9844",
+  "ApplicantName": "SK IMTIAZ",
+  "FatherName": "SK AZIZUL",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 176,
+  "person": "bsk"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "OBCWB13022021\/14008",
+  "ApplicantName": "SEKH HABIBUR",
+  "FatherName": "SK SAJAHAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 177,
+  "person": "bsk"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "OBCWB13022021\/13803",
+  "ApplicantName": "ARMIN KHATUN",
+  "FatherName": "SEKH ABUL KALAM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 178,
+  "person": "bsk"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "OBCWB13022021\/9843",
+  "ApplicantName": "AZIZUL SEKH",
+  "FatherName": "ABDUL GAFFAR SEKH",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 179,
+  "person": "bsk"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "OBCWB13022021\/11285",
+  "ApplicantName": "SK MOJAFFOR ALI",
+  "FatherName": "SK ABDUS SATTAR",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DEOGORIA",
+  "GP": "ROL",
+  "MainSl": 180,
+  "person": "bsk"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "OBCWB13022021\/12111",
+  "ApplicantName": "OLI MAHAMMAD MOLLA",
+  "FatherName": "MOSLEM MOLLA",
+  "SubCaste": "Muslim Molla",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 181,
+  "person": "bsk"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "OBCWB13022021\/13838",
+  "ApplicantName": "SEKH ABUL KALAM",
+  "FatherName": "SEKH ROMJAN",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 182,
+  "person": "bsk"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "OBCWB13022021\/13716",
+  "ApplicantName": "SINTU SEKH",
+  "FatherName": "SAMED SEKH",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 183,
+  "person": "bsk"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "OBCWB13022021\/13239",
+  "ApplicantName": "MEHERUNNESHA BEGAM",
+  "FatherName": "LOKMAN MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 184,
+  "person": "bsk"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "OBCWB13022021\/12270",
+  "ApplicantName": "AJIMUNNASHA SK",
+  "FatherName": "LOKMAN MALLICK",
+  "SubCaste": "Mallick",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 185,
+  "person": "bsk"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "OBCWB13022021\/11251",
+  "ApplicantName": "MEHER MIDDYA",
+  "FatherName": "ANOYAR MIDDYA",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 186,
+  "person": "bsk"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "OBCWB13022021\/13349",
+  "ApplicantName": "ROJINA BEGAM",
+  "FatherName": "SK AINAL",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "SIMULIA",
+  "GP": "AMRUL",
+  "MainSl": 187,
+  "person": "bsk"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "OBCWB13022021\/11274",
+  "ApplicantName": "SOUMIK PAL",
+  "FatherName": "SUBRATA PAL",
+  "SubCaste": "Sutradhar",
+  "Village": "ARAPUR",
+  "GP": "SAHASPUR",
+  "MainSl": 188,
+  "person": "bsk"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "OBCWB13022021\/13900",
+  "ApplicantName": "SAHINA KHATUN",
+  "FatherName": "INTAJUL HAQUE MALLIK",
+  "SubCaste": "Mallick",
+  "Village": "GOALA PUSHKARINI",
+  "GP": "SAHASPUR",
+  "MainSl": 189,
+  "person": "bsk"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "OBCWB13022021\/11695",
+  "ApplicantName": "ASMIM KHATUN",
+  "FatherName": "SK SELIM",
+  "SubCaste": "Sekh\/Seikh",
+  "Village": "DHARAMPUR",
+  "GP": "SAHASPUR",
+  "MainSl": 190,
+  "person": "bsk"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "SCWB13022021\/53037",
+  "ApplicantName": "HARADHAN RUIDAS",
+  "FatherName": "SHUKLAL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "BAGALPUR",
+  "GP": "DIGHALGRAM",
+  "MainSl": 191,
+  "person": "bsk"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "SCWB13022021\/149191",
+  "ApplicantName": "BAKUL BAGDI",
+  "FatherName": "UTTAM BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 192,
+  "person": "bsk"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "SCWB13022021\/103827",
+  "ApplicantName": "BIMAL BAGDI",
+  "FatherName": "SUKUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 193,
+  "person": "bsk"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "SCWB13022021\/157234",
+  "ApplicantName": "JIBAN BAGDI",
+  "FatherName": "ABANI BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SHASHPUR",
+  "MainSl": 194,
+  "person": "bsk"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "SCWB13022021\/147759",
+  "ApplicantName": "TARAKNATH MAJHI",
+  "FatherName": "DHANANAJAY MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "CHARIGRAM",
+  "GP": "SAHASPUR",
+  "MainSl": 195,
+  "person": "bsk"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "SCWB13022021\/136539",
+  "ApplicantName": "KARTIK BAGDI",
+  "FatherName": "BADAL BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 196,
+  "person": "bsk"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "SCWB13022021\/160991",
+  "ApplicantName": "LAKSHMI NARAYAN RUIDAS",
+  "FatherName": "SAKUMAR RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 197,
+  "person": "bsk"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "SCWB13022021\/157244",
+  "ApplicantName": "LAB BAGDI",
+  "FatherName": "SUBHASH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHSAHPUR",
+  "MainSl": 198,
+  "person": "bsk"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "SCWB13022021\/158121",
+  "ApplicantName": "MANTU BAGDI",
+  "FatherName": "ASHTAM BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DHAMUR",
+  "GP": "SAHASPUR",
+  "MainSl": 199,
+  "person": "bsk"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "SCWB13022021\/150389",
+  "ApplicantName": "MRITTUNJAY RANA",
+  "FatherName": "LATE SADHAN RANA",
+  "SubCaste": "DOM",
+  "Village": "GOYALA PUSKARINI",
+  "GP": "SHASHPUR GP",
+  "MainSl": 200,
+  "person": "bsk"
+ },
+ {
+  "Sl": 51,
+  "ApplicationId": "SCWB13022021\/154845",
+  "ApplicantName": "TARAKNATH RUIDAS",
+  "FatherName": "GANGARAM RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 201,
+  "person": "bsk"
+ },
+ {
+  "Sl": 52,
+  "ApplicationId": "SCWB13022021\/110857",
+  "ApplicantName": "SURYA BAGDI",
+  "FatherName": "LAXMAN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 202,
+  "person": "bsk"
+ },
+ {
+  "Sl": 53,
+  "ApplicationId": "SCWB13022021\/158032",
+  "ApplicantName": "SUBHASH ROY",
+  "FatherName": "LATE KRISHTA ROY",
+  "SubCaste": "BAGDI",
+  "Village": "NARAYANPUR",
+  "GP": "SHASHPUR GP",
+  "MainSl": 203,
+  "person": "bsk"
+ },
+ {
+  "Sl": 54,
+  "ApplicationId": "SCWB13022021\/160127",
+  "ApplicantName": "TOTAN BAGDI",
+  "FatherName": "LATE HARU BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DHAMUR",
+  "GP": "SAHASPUR GRAM PANCHAYAT",
+  "MainSl": 204,
+  "person": "bsk"
+ },
+ {
+  "Sl": 55,
+  "ApplicationId": "SCWB13022021\/159658",
+  "ApplicantName": "JAGABANDHU BAGDI",
+  "FatherName": "LATE SURYAKANTA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 205,
+  "person": "bsk"
+ },
+ {
+  "Sl": 56,
+  "ApplicationId": "SCWB13022021\/160056",
+  "ApplicantName": "CHANDAN RUIDAS",
+  "FatherName": "SANKAR RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 206,
+  "person": "bsk"
+ },
+ {
+  "Sl": 57,
+  "ApplicationId": "SCWB13022021\/158296",
+  "ApplicantName": "SUKUMAR MALIK",
+  "FatherName": "GUIRAM MALIK",
+  "SubCaste": "DOM",
+  "Village": "GOPALPUR",
+  "GP": "SAHASPUR",
+  "MainSl": 207,
+  "person": "bsk"
+ },
+ {
+  "Sl": 58,
+  "ApplicationId": "SCWB13022021\/159858",
+  "ApplicantName": "PARTHA BAGDI",
+  "FatherName": "LATE TAPAN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 208,
+  "person": "bsk"
+ },
+ {
+  "Sl": 59,
+  "ApplicationId": "SCWB13022021\/160997",
+  "ApplicantName": "BIDYUT BAGDI",
+  "FatherName": "BASUDEB BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 209,
+  "person": "bsk"
+ },
+ {
+  "Sl": 60,
+  "ApplicationId": "SCWB13022021\/156208",
+  "ApplicantName": "TULSI MAJHI",
+  "FatherName": "LATE GOPAL MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "CHARIGRAM",
+  "GP": "SAHASHPUR",
+  "MainSl": 210,
+  "person": "bsk"
+ },
+ {
+  "Sl": 61,
+  "ApplicationId": "SCWB13022021\/61605",
+  "ApplicantName": "SWARUP MAJHI",
+  "FatherName": "SUNIL MAJHI",
+  "SubCaste": "DOM",
+  "Village": "MAHESHPUR",
+  "GP": "INDAS II",
+  "MainSl": 211,
+  "person": "bsk"
+ },
+ {
+  "Sl": 62,
+  "ApplicationId": "SCWB13022015\/4960",
+  "ApplicantName": "SUBRATA SANTRA",
+  "FatherName": "PRASANTA SANTRA",
+  "SubCaste": "DOM",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR GRAM PANCHAYAT",
+  "MainSl": 212,
+  "person": "bsk"
+ },
+ {
+  "Sl": 63,
+  "ApplicationId": "SCWB13022021\/80823",
+  "ApplicantName": "PRASANTA SANTRA",
+  "FatherName": "GOPAL SANTRA",
+  "SubCaste": "DOM",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 213,
+  "person": "bsk"
+ },
+ {
+  "Sl": 64,
+  "ApplicationId": "SCWB13022021\/132498",
+  "ApplicantName": "SUSANTA ROY",
+  "FatherName": "YADAB ROY",
+  "SubCaste": "BAGDI",
+  "Village": "BANBERIA",
+  "GP": "SASHAPUR",
+  "MainSl": 214,
+  "person": "bsk"
+ },
+ {
+  "Sl": 65,
+  "ApplicationId": "SCWB13022021\/114138",
+  "ApplicantName": "BAKUL BAGDI",
+  "FatherName": "KRISHNA METE",
+  "SubCaste": "BAGDI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 215,
+  "person": "bsk"
+ },
+ {
+  "Sl": 66,
+  "ApplicationId": "SCWB13022021\/104594",
+  "ApplicantName": "TAPAS BAGDI",
+  "FatherName": "DURGA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "MAHESHPUR",
+  "GP": "INDAS II",
+  "MainSl": 216,
+  "person": "bsk"
+ },
+ {
+  "Sl": 67,
+  "ApplicationId": "SCWB13022021\/102180",
+  "ApplicantName": "KARTICK BAGDI",
+  "FatherName": "MAHANANDA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 217,
+  "person": "bsk"
+ },
+ {
+  "Sl": 68,
+  "ApplicationId": "SCWB13022021\/64201",
+  "ApplicantName": "JEEVAN MAJHI",
+  "FatherName": "TARAPADA MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "CHAK MERAL",
+  "GP": "INDAS2",
+  "MainSl": 218,
+  "person": "bsk"
+ },
+ {
+  "Sl": 69,
+  "ApplicationId": "SCWB13022021\/47933",
+  "ApplicantName": "BABU RUIDAS",
+  "FatherName": "SITAL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "KHOSBAG",
+  "GP": "INDAS II",
+  "MainSl": 219,
+  "person": "bsk"
+ },
+ {
+  "Sl": 70,
+  "ApplicationId": "SCWB13022021\/82450",
+  "ApplicantName": "MATHURA RAJAK",
+  "FatherName": "BIMAL RAJAK",
+  "SubCaste": "DHOBA",
+  "Village": "KHOSBAG",
+  "GP": "INDAS II",
+  "MainSl": 220,
+  "person": "bsk"
+ },
+ {
+  "Sl": 71,
+  "ApplicationId": "SCWB13022021\/106465",
+  "ApplicantName": "SANJIB BAGDI",
+  "FatherName": "SUKUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "HAIYAT NAGAR",
+  "GP": "INDAS II",
+  "MainSl": 221,
+  "person": "bsk"
+ },
+ {
+  "Sl": 72,
+  "ApplicationId": "SCWB13022021\/84091",
+  "ApplicantName": "RINA BAGDI",
+  "FatherName": "SUKUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 222,
+  "person": "bsk"
+ },
+ {
+  "Sl": 73,
+  "ApplicationId": "SCWB13022021\/66271",
+  "ApplicantName": "BIBHAS BAGDI",
+  "FatherName": "KANAI BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 223,
+  "person": "bsk"
+ },
+ {
+  "Sl": 74,
+  "ApplicationId": "SCWB13022021\/85274",
+  "ApplicantName": "GANAPATI RUIDAS",
+  "FatherName": "BADAL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 224,
+  "person": "bsk"
+ },
+ {
+  "Sl": 75,
+  "ApplicationId": "SCWB13022021\/102525",
+  "ApplicantName": "SHYAM RUIDAS",
+  "FatherName": "KHAGEN RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS 2",
+  "MainSl": 225,
+  "person": "bsk"
+ },
+ {
+  "Sl": 76,
+  "ApplicationId": "SCWB13022021\/84154",
+  "ApplicantName": "SANJAY BAGDI",
+  "FatherName": "DILIP BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 226,
+  "person": "bsk"
+ },
+ {
+  "Sl": 77,
+  "ApplicationId": "SCWB13022021\/108374",
+  "ApplicantName": "TAPASRUIDAS",
+  "FatherName": "SWAPAN RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS 2",
+  "MainSl": 227,
+  "person": "bsk"
+ },
+ {
+  "Sl": 78,
+  "ApplicationId": "SCWB13022021\/112417",
+  "ApplicantName": "DEBU RUIDAS",
+  "FatherName": "SANATAN RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "KHOSBAG",
+  "GP": "INDAS II",
+  "MainSl": 228,
+  "person": "bsk"
+ },
+ {
+  "Sl": 79,
+  "ApplicationId": "SCWB13022021\/124354",
+  "ApplicantName": "DASHARATH BAGDI",
+  "FatherName": "SHIBU BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DHAMUR",
+  "GP": "SHASHPUR",
+  "MainSl": 229,
+  "person": "bsk"
+ },
+ {
+  "Sl": 80,
+  "ApplicationId": "SCWB13022021\/147593",
+  "ApplicantName": "MANGAL BAGDI",
+  "FatherName": "SAMBHUNATH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 230,
+  "person": "bsk"
+ },
+ {
+  "Sl": 81,
+  "ApplicationId": "SCWB13022021\/141431",
+  "ApplicantName": "SUMAN METE",
+  "FatherName": "RADHASHYAM METE",
+  "SubCaste": "BAGDI",
+  "Village": "TENTULMURI",
+  "GP": "KARISUNDA",
+  "MainSl": 231,
+  "person": "bsk"
+ },
+ {
+  "Sl": 82,
+  "ApplicationId": "SCWB13022021\/56101",
+  "ApplicantName": "GOPAL MAJHI",
+  "FatherName": "ASWINI KUMAR MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "BHABAPUR",
+  "GP": "KARISUNDA",
+  "MainSl": 232,
+  "person": "bsk"
+ },
+ {
+  "Sl": 83,
+  "ApplicationId": "SCWB13022021\/84897",
+  "ApplicantName": "SAYAN RUIDAS",
+  "FatherName": "KARTICK RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "RATRA",
+  "GP": "AKUI II",
+  "MainSl": 233,
+  "person": "bsk"
+ },
+ {
+  "Sl": 84,
+  "ApplicationId": "SCWB13022021\/114056",
+  "ApplicantName": "ABHIJIT RUIDAS",
+  "FatherName": "HARU RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "ISWARPUR",
+  "GP": "AKUI 2",
+  "MainSl": 234,
+  "person": "bsk"
+ },
+ {
+  "Sl": 85,
+  "ApplicationId": "SCWB13022021\/84959",
+  "ApplicantName": "KARTICK RUIDAS",
+  "FatherName": "SWAPAN RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "RATRA",
+  "GP": "AKUI II",
+  "MainSl": 235,
+  "person": "bsk"
+ },
+ {
+  "Sl": 86,
+  "ApplicationId": "SCWB13022021\/44888",
+  "ApplicantName": "GANESH CHANDRA RUIDAS",
+  "FatherName": "TARAPADA RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "RATRA",
+  "GP": "AKUI II",
+  "MainSl": 236,
+  "person": "bsk"
+ },
+ {
+  "Sl": 87,
+  "ApplicationId": "SCWB13022021\/107944",
+  "ApplicantName": "SWAPAN MAJHI",
+  "FatherName": "RAMESWAR MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "KARISUNDA",
+  "GP": "KARISUNDA",
+  "MainSl": 237,
+  "person": "bsk"
+ },
+ {
+  "Sl": 88,
+  "ApplicationId": "SCWB13022021\/146026",
+  "ApplicantName": "SHIMUL BISWAS",
+  "FatherName": "HARABILAS BISWAS",
+  "SubCaste": "NAMASUDRA",
+  "Village": "SANPURA",
+  "GP": "KORISUNDA",
+  "MainSl": 238,
+  "person": "bsk"
+ },
+ {
+  "Sl": 89,
+  "ApplicationId": "SCWB13022021\/43220",
+  "ApplicantName": "KOLEJ ROY",
+  "FatherName": "DASHARATH ROY",
+  "SubCaste": "BAGDI",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 239,
+  "person": "bsk"
+ },
+ {
+  "Sl": 90,
+  "ApplicationId": "SCWB13022021\/43083",
+  "ApplicantName": "ESHIKA PRAMANIK",
+  "FatherName": "LALTU PRAMANIK",
+  "SubCaste": "DOM",
+  "Village": "JAGALDWIP",
+  "GP": "KARISUNDA",
+  "MainSl": 240,
+  "person": "bsk"
+ },
+ {
+  "Sl": 91,
+  "ApplicationId": "SCWB13022021\/46694",
+  "ApplicantName": "RETWIKA PRAMANIK",
+  "FatherName": "LALTU PRAMANIK",
+  "SubCaste": "DOM",
+  "Village": "JAGALDWIP",
+  "GP": "KARISUNDA",
+  "MainSl": 241,
+  "person": "bsk"
+ },
+ {
+  "Sl": 92,
+  "ApplicationId": "SCWB13022021\/139643",
+  "ApplicantName": "LALTU PRAMANIK",
+  "FatherName": "SANATAN PRAMANIK",
+  "SubCaste": "DOM",
+  "Village": "JAGALDWIP",
+  "GP": "KARISUNDA",
+  "MainSl": 242,
+  "person": "bsk"
+ },
+ {
+  "Sl": 93,
+  "ApplicationId": "SCWB13022021\/42834",
+  "ApplicantName": "SASHTI MALIK",
+  "FatherName": "NALIN MALIK",
+  "SubCaste": "DOM",
+  "Village": "BEHAR",
+  "GP": "MANGALPUR",
+  "MainSl": 243,
+  "person": "bsk"
+ },
+ {
+  "Sl": 94,
+  "ApplicationId": "SCWB13022021\/65322",
+  "ApplicantName": "MONAJIT RUIDAS",
+  "FatherName": "RANJAN RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "KUSHMURI",
+  "GP": "MANGALPUR",
+  "MainSl": 244,
+  "person": "bsk"
+ },
+ {
+  "Sl": 95,
+  "ApplicationId": "SCWB13022021\/121904",
+  "ApplicantName": "SAHEB DIGER",
+  "FatherName": "JIBAN DIGER",
+  "SubCaste": "DOM",
+  "Village": "BETALAN",
+  "GP": "MANGALPUR",
+  "MainSl": 245,
+  "person": "bsk"
+ },
+ {
+  "Sl": 96,
+  "ApplicationId": "SCWB13022021\/60247",
+  "ApplicantName": "MADAN METE",
+  "FatherName": "RABINDRA NATH METE",
+  "SubCaste": "BAGDI",
+  "Village": "BETALAN",
+  "GP": "MANGALPUR",
+  "MainSl": 246,
+  "person": "bsk"
+ },
+ {
+  "Sl": 97,
+  "ApplicationId": "SCWB13022021\/132327",
+  "ApplicantName": "KALIPADA RAY",
+  "FatherName": "RUPNARAYAN RAY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2 NO GP",
+  "MainSl": 247,
+  "person": "bsk"
+ },
+ {
+  "Sl": 98,
+  "ApplicationId": "SCWB13022021\/121378",
+  "ApplicantName": "MANTU DHARA",
+  "FatherName": "SANATAN DHARA",
+  "SubCaste": "DOM",
+  "Village": "THAKURANI DIGHI",
+  "GP": "SAHASPUR",
+  "MainSl": 248,
+  "person": "bsk"
+ },
+ {
+  "Sl": 99,
+  "ApplicationId": "SCWB13022021\/131672",
+  "ApplicantName": "KARTIK BAGDI",
+  "FatherName": "LATE KENARAM BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 249,
+  "person": "bsk"
+ },
+ {
+  "Sl": 100,
+  "ApplicationId": "SCWB13022021\/144936",
+  "ApplicantName": "MOHAN RANA",
+  "FatherName": "KHUDIRAMA RANA",
+  "SubCaste": "DOM",
+  "Village": "GOALA PUSHKARINI",
+  "GP": "SHASHPUR",
+  "MainSl": 250,
+  "person": "bsk"
+ },
+ {
+  "Sl": 1,
+  "ApplicationId": "SCWB13022021\/70889",
+  "ApplicantName": "TAPAN DHARA",
+  "FatherName": "LATE MANINDRA DHARA",
+  "SubCaste": "JALIA KAIBARTTA",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 251,
+  "person": "bsk"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "SCWB13022021\/136165",
+  "ApplicantName": "UTTAM DHARA",
+  "FatherName": "BALAI DHARA",
+  "SubCaste": "DOM",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 252,
+  "person": "bsk"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "SCWB13022021\/133335",
+  "ApplicantName": "MANTU RAY",
+  "FatherName": "LATE SAKTI RAY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2",
+  "MainSl": 253,
+  "person": "bsk"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "SCWB13022021\/133013",
+  "ApplicantName": "UTTAM ROY",
+  "FatherName": "NARAN ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHARSI",
+  "GP": "AKUI 2",
+  "MainSl": 254,
+  "person": "bsk"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "SCWB13022021\/133235",
+  "ApplicantName": "SAHEB ROY",
+  "FatherName": "UTTAM ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHARSI",
+  "GP": "AKUI 2",
+  "MainSl": 255,
+  "person": "bsk"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "SCWB13022021\/104724",
+  "ApplicantName": "GANESH RUIDAS",
+  "FatherName": "DURGA RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 256,
+  "person": "bsk"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "SCWB13022021\/143233",
+  "ApplicantName": "HARADHAN ROY BAGDI",
+  "FatherName": "NISHAKAR ROY BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BANBERIA",
+  "GP": "SASHAPUR",
+  "MainSl": 257,
+  "person": "bsk"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "SCWB13022021\/131514",
+  "ApplicantName": "JOYKRISHNA SANTRA",
+  "FatherName": "SADHAN SANTRA",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2",
+  "MainSl": 258,
+  "person": "bsk"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "SCWB13022021\/160187",
+  "ApplicantName": "SAGAR RUIDAS",
+  "FatherName": "LATE ANIL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "SHASHPUR",
+  "GP": "SAHASPUR GP",
+  "MainSl": 259,
+  "person": "bsk"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "SCWB13022021\/145098",
+  "ApplicantName": "SHASHTHI BAGDI",
+  "FatherName": "RANAJIT BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 260,
+  "person": "bsk"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "SCWB13022021\/154426",
+  "ApplicantName": "SHYAMSUNDAR BAGDI",
+  "FatherName": "RAKHAL BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BIHAR PUSHKARANI",
+  "GP": "SHASHPUR",
+  "MainSl": 261,
+  "person": "bsk"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "SCWB13022021\/150028",
+  "ApplicantName": "SHIBA BAGDI",
+  "FatherName": "PABITRA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 262,
+  "person": "bsk"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "SCWB13022021\/156964",
+  "ApplicantName": "SHIBU BAGDI",
+  "FatherName": "KARTIK BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SAHASPUR",
+  "GP": "SAHASPUR GRAM PANCHAYAT",
+  "MainSl": 263,
+  "person": "bsk"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "SCWB13022019\/6591",
+  "ApplicantName": "DIPA BAGDI",
+  "FatherName": "PABITRA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 264,
+  "person": "bsk"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "SCWB13022021\/153906",
+  "ApplicantName": "MILAN BAGDI",
+  "FatherName": "BASUDEB BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 265,
+  "person": "bsk"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "SCWB13022021\/158903",
+  "ApplicantName": "KUSHADHWAJ BAGDI",
+  "FatherName": "KOMAL BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 266,
+  "person": "bsk"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "SCWB13022021\/131288",
+  "ApplicantName": "SWAYAN ROY",
+  "FatherName": "ASHTAM ROY",
+  "SubCaste": "BAGDI",
+  "Village": "RATRA",
+  "GP": "AKUI 2",
+  "MainSl": 267,
+  "person": "bsk"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "SCWB13022021\/128858",
+  "ApplicantName": "ASIT ROY",
+  "FatherName": "LALTU ROY",
+  "SubCaste": "BAGDI",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 268,
+  "person": "bsk"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "SCWB13022021\/131042",
+  "ApplicantName": "NISHITH ROY",
+  "FatherName": "LALTU ROY",
+  "SubCaste": "BAGDI",
+  "Village": "PUNJUR",
+  "GP": "AKUI 2",
+  "MainSl": 269,
+  "person": "bsk"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "SCWB13022021\/35108",
+  "ApplicantName": "RAKESH BAGDI",
+  "FatherName": "SUSANTA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SRIPUR",
+  "GP": "INADS 2",
+  "MainSl": 270,
+  "person": "bsk"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "SCWB13022021\/56961",
+  "ApplicantName": "SANATAN RAJAK",
+  "FatherName": "NAYAN RAJAK",
+  "SubCaste": "DHOBA",
+  "Village": "KHOSBAG",
+  "GP": "INDAS II",
+  "MainSl": 271,
+  "person": "bsk"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "SCWB13022021\/35052",
+  "ApplicantName": "RAJESH BAGDI",
+  "FatherName": "SUSANTA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SRIPUR",
+  "GP": "INDAS 2",
+  "MainSl": 272,
+  "person": "bsk"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "SCWB13022021\/136089",
+  "ApplicantName": "BADAL ROY",
+  "FatherName": "LATE BISHNU ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2 GP",
+  "MainSl": 273,
+  "person": "bsk"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "SCWB13022021\/127649",
+  "ApplicantName": "ARINDAM PATRA",
+  "FatherName": "LAXMINARAYAN PATRA",
+  "SubCaste": "DOM",
+  "Village": "KHORSHI",
+  "GP": "AKUI 2",
+  "MainSl": 274,
+  "person": "bsk"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "SCWB13022021\/135933",
+  "ApplicantName": "KANAI RAY",
+  "FatherName": "LATE CHURAMANI RAY",
+  "SubCaste": "DULEY",
+  "Village": "MAGANPUR",
+  "GP": "AKUI 2 GP",
+  "MainSl": 275,
+  "person": "bsk"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "SCWB13022021\/136935",
+  "ApplicantName": "SHRIKANTA ROY",
+  "FatherName": "LATE GANESH ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2 NO GP",
+  "MainSl": 276,
+  "person": "bsk"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "SCWB13022021\/139253",
+  "ApplicantName": "DHANANJAY MALIK",
+  "FatherName": "JITENDRANATH MALIK",
+  "SubCaste": "DOM",
+  "Village": "RATRA",
+  "GP": "AKUI 2",
+  "MainSl": 277,
+  "person": "bsk"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "SCWB13022021\/97864",
+  "ApplicantName": "SAMPAD MAJI",
+  "FatherName": "TAPAN MAJI",
+  "SubCaste": "BAGDI",
+  "Village": "BANGALCHAK",
+  "GP": "AMRUL",
+  "MainSl": 278,
+  "person": "bsk"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "SCWB13022021\/95996",
+  "ApplicantName": "JAHAR MAJHI",
+  "FatherName": "KARTTIK MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "PASCHIM SRIRAMPUR",
+  "GP": "AMRUL",
+  "MainSl": 279,
+  "person": "bsk"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "SCWB13022021\/24520",
+  "ApplicantName": "SUVO MAJHI",
+  "FatherName": "SUBHAS MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "GOKULCHAK",
+  "GP": "AMRUL",
+  "MainSl": 280,
+  "person": "bsk"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "SCWB13022021\/117503",
+  "ApplicantName": "SUBHASHREE MAJHI",
+  "FatherName": "PRASANTA MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "HOSTIPOTA",
+  "GP": "AMRUL",
+  "MainSl": 281,
+  "person": "bsk"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "SCWB13022021\/110020",
+  "ApplicantName": "ASWINI RUIDAS",
+  "FatherName": "SHAKTI RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "AMRUL",
+  "GP": "AMRUL",
+  "MainSl": 282,
+  "person": "bsk"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "SCWB13022021\/125985",
+  "ApplicantName": "SAYAN RUIDAS",
+  "FatherName": "PRABIR RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "RATRA",
+  "GP": "AKUI 2",
+  "MainSl": 283,
+  "person": "bsk"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "SCWB13022021\/128541",
+  "ApplicantName": "KRISHNA ROY",
+  "FatherName": "LABAI ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHARSI",
+  "GP": "AKUI II",
+  "MainSl": 284,
+  "person": "bsk"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "SCWB13022021\/133900",
+  "ApplicantName": "BHADU RAY",
+  "FatherName": "LATE KHANDU RAY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2 GP",
+  "MainSl": 285,
+  "person": "bsk"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "SCWB13022021\/130292",
+  "ApplicantName": "ASHOK ROY",
+  "FatherName": "LATE JABU ROY",
+  "SubCaste": "DULEY",
+  "Village": "KHORSEE",
+  "GP": "AKUI 2 GP",
+  "MainSl": 286,
+  "person": "bsk"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "SCWB13022021\/82248",
+  "ApplicantName": "RABI ROY",
+  "FatherName": "GOPAL ROY",
+  "SubCaste": "DULEY",
+  "Village": "AKUI",
+  "GP": "AKUI 1",
+  "MainSl": 287,
+  "person": "bsk"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "SCWB13022021\/124601",
+  "ApplicantName": "MADAN RUIDAS",
+  "FatherName": "LATE HARU RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "GOBPUR",
+  "GP": "AKUI NO 1 GRAM PANCHAYET",
+  "MainSl": 288,
+  "person": "bsk"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "SCWB13022021\/153964",
+  "ApplicantName": "ASHIS RUIDAS",
+  "FatherName": "ARUP RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "SHASHPUR",
+  "GP": "SAHASPUR GP",
+  "MainSl": 289,
+  "person": "bsk"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "SCWB13022021\/151816",
+  "ApplicantName": "KUNAL BAGDI",
+  "FatherName": "SANJOY BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BERGHOSH",
+  "GP": "SHASHPUR",
+  "MainSl": 290,
+  "person": "bsk"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "SCWB13022021\/131427",
+  "ApplicantName": "ARUN BAGDI",
+  "FatherName": "SUBHASH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "BERGHOSH",
+  "GP": "SHASHPUR",
+  "MainSl": 291,
+  "person": "bsk"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "SCWB13022021\/144800",
+  "ApplicantName": "BISWAJIT BAGDI",
+  "FatherName": "BIBHAS BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 292,
+  "person": "bsk"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "SCWB13022021\/160979",
+  "ApplicantName": "BAKUL BAGDI",
+  "FatherName": "KARTIK BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 293,
+  "person": "bsk"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "SCWB13022021\/161071",
+  "ApplicantName": "BANSHI MAJHI",
+  "FatherName": "BHAIRAB MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "CHARIGRM",
+  "GP": "SAHASHPUR",
+  "MainSl": 294,
+  "person": "bsk"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "SCWB13022021\/156260",
+  "ApplicantName": "MADAN BAGDI",
+  "FatherName": "GANGADHAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "ASHWINPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 295,
+  "person": "bsk"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "SCWB13022021\/128704",
+  "ApplicantName": "MANTU BAGDI",
+  "FatherName": "LATE GOKUL BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 296,
+  "person": "bsk"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "SCWB13022021\/149818",
+  "ApplicantName": "SIDHU BAGDI",
+  "FatherName": "GANESH CHANDRA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 297,
+  "person": "bsk"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "SCWB13022021\/154139",
+  "ApplicantName": "UMACHARAN RUIDAS",
+  "FatherName": "DUKHIRAM RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "BAIKUNTHAPUR",
+  "GP": "SAHASPUR",
+  "MainSl": 298,
+  "person": "bsk"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "SCWB13022021\/154389",
+  "ApplicantName": "SHANTI RUIDAS",
+  "FatherName": "INDRA RUIDAS",
+  "SubCaste": "MOCHI",
+  "Village": "DHAMUR",
+  "GP": "SHASHPUR",
+  "MainSl": 299,
+  "person": "bsk"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "SCWB13022021\/82487",
+  "ApplicantName": "TAPAS BARESH",
+  "FatherName": "KALIPADA BARESH",
+  "SubCaste": "DOM",
+  "Village": "AKUI",
+  "GP": "AKUI 1",
+  "MainSl": 300,
+  "person": "bsk"
+ },
+ {
+  "Sl": 1,
+  "ApplicationId": "SCWB13022021\/61506",
+  "ApplicantName": "SUPRIYO METE",
+  "FatherName": "UTPAL METE",
+  "SubCaste": "BAGDI",
+  "Village": "TENTULMURI",
+  "GP": "KARISUNDA",
+  "MainSl": 301,
+  "person": "bsk"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "SCWB13022021\/155484",
+  "ApplicantName": "SAYAN DULEY",
+  "FatherName": "SWAPAN DULEY",
+  "SubCaste": "BAGDI",
+  "Village": "BAKTARPUR",
+  "GP": "DIGHALGRAM",
+  "MainSl": 302,
+  "person": "bsk"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "SCWB13022021\/64846",
+  "ApplicantName": "NARAN PATRA",
+  "FatherName": "HARISHANKAR PATRA",
+  "SubCaste": "DOM",
+  "Village": "KHORSEE",
+  "GP": "AKUI II",
+  "MainSl": 303,
+  "person": "bsk"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "SCWB13022021\/123830",
+  "ApplicantName": "PALASH MAJHI",
+  "FatherName": "MILAN MAJHI",
+  "SubCaste": "DULEY",
+  "Village": "KENJERA",
+  "GP": "DIGHALGRAM GRAM PANCHAYET",
+  "MainSl": 304,
+  "person": "bsk"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "SCWB13022021\/159262",
+  "ApplicantName": "BAMA CHARAN ROY",
+  "FatherName": "BALAI ROY",
+  "SubCaste": "BAGDI",
+  "Village": "BAHALALPUR",
+  "GP": "DIGHALGRAM",
+  "MainSl": 305,
+  "person": "bsk"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "SCWB13022021\/110316",
+  "ApplicantName": "DHANANJAY BAGDY",
+  "FatherName": "ANANDA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SHASHPUR",
+  "MainSl": 306,
+  "person": "bsk"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "SCWB13022021\/144144",
+  "ApplicantName": "RAJ BAGDI",
+  "FatherName": "SANJOY BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 307,
+  "person": "bsk"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "SCWB13022021\/85241",
+  "ApplicantName": "APU BAGDI",
+  "FatherName": "SHACHI BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DHAMUR",
+  "GP": "SAHASPUR",
+  "MainSl": 308,
+  "person": "bsk"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "SCWB13022021\/86032",
+  "ApplicantName": "SHACHI BAGDI",
+  "FatherName": "ANATH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DHAMUR",
+  "GP": "SAHASPUR",
+  "MainSl": 309,
+  "person": "bsk"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "SCWB13022021\/125003",
+  "ApplicantName": "JAGANATH DHARA",
+  "FatherName": "SANATAN DHARA",
+  "SubCaste": "DOM",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 310,
+  "person": "bsk"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "SCWB13022021\/83547",
+  "ApplicantName": "RAMPADA BAGDI",
+  "FatherName": "LATE MADAN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 311,
+  "person": "bsk"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "SCWB13022021\/54779",
+  "ApplicantName": "SHIBU BAGDI",
+  "FatherName": "RAMPADA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 312,
+  "person": "bsk"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "SCWB13022021\/37278",
+  "ApplicantName": "SANNYASHI RUIDAS",
+  "FatherName": "RUPO RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "BAIKUNTHAPUR",
+  "GP": "SAHASPUR",
+  "MainSl": 313,
+  "person": "bsk"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "SCWB13022021\/136185",
+  "ApplicantName": "RADHAKANTA KHAN",
+  "FatherName": "BUDDHADEB KHAN",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 314,
+  "person": "bsk"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "SCWB13022021\/115018",
+  "ApplicantName": "ANKITA BAGDI",
+  "FatherName": "ARUP BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DAYARAMPUR",
+  "GP": "SAHASPUR GRAM PANCHAYAT",
+  "MainSl": 315,
+  "person": "bsk"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "SCWB13022021\/142402",
+  "ApplicantName": "SUBHA BAGDI",
+  "FatherName": "LATE SWAPAN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SAHASPUR GP",
+  "MainSl": 316,
+  "person": "bsk"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "SCWB13022021\/67340",
+  "ApplicantName": "SUBHOJIT RUIDAS",
+  "FatherName": "SRIKANTA RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 317,
+  "person": "bsk"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "SCWB13022021\/103926",
+  "ApplicantName": "GANESH CHANDRA BAGDI",
+  "FatherName": "LATE DASHARATHI BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SASHAPUR",
+  "MainSl": 318,
+  "person": "bsk"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "SCWB13022021\/121840",
+  "ApplicantName": "ASIT KUMAR RUIDAS",
+  "FatherName": "BALAI CHANDRA RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "BANBERIA",
+  "GP": "SAHASPUR GRAM PANCHAYAT",
+  "MainSl": 319,
+  "person": "bsk"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "SCWB13022021\/131142",
+  "ApplicantName": "JOYDEB BAGDI",
+  "FatherName": "SAGAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 320,
+  "person": "bsk"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "SCWB13022021\/136665",
+  "ApplicantName": "SANJOY BAGDI",
+  "FatherName": "JAYDEB BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 321,
+  "person": "bsk"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "SCWB13022021\/48805",
+  "ApplicantName": "SHYAMAL RUIDAS",
+  "FatherName": "GANESH RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 322,
+  "person": "bsk"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "SCWB13022021\/120921",
+  "ApplicantName": "APARNA BAGDI",
+  "FatherName": "DILIP BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 323,
+  "person": "bsk"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "SCWB13022021\/120798",
+  "ApplicantName": "SUROJIT BAGDI",
+  "FatherName": "DILIP BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 324,
+  "person": "bsk"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "SCWB13022021\/116507",
+  "ApplicantName": "TOTON BAGDI",
+  "FatherName": "DASARATH BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 325,
+  "person": "bsk"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "SCWB13022021\/138423",
+  "ApplicantName": "RABI MAJHI",
+  "FatherName": "SHIBU MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "BAIKUNTHA PUR",
+  "GP": "SAHASPUR",
+  "MainSl": 326,
+  "person": "bsk"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "SCWB13022021\/123407",
+  "ApplicantName": "SANJAY MAJHI",
+  "FatherName": "NITAI MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 327,
+  "person": "bsk"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "SCWB13022021\/136733",
+  "ApplicantName": "SUBHASH BAGDI",
+  "FatherName": "JAYDEB BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 328,
+  "person": "bsk"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "SCWB13022021\/135068",
+  "ApplicantName": "SANCHITA RUIDAS",
+  "FatherName": "SUSIL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "ARAPUR",
+  "GP": "SASHAPUR",
+  "MainSl": 329,
+  "person": "bsk"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "SCWB13022021\/135171",
+  "ApplicantName": "DEBJANI RUIDAS",
+  "FatherName": "SUSIL RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "ARAPUR",
+  "GP": "SASHAPUR",
+  "MainSl": 330,
+  "person": "bsk"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "SCWB13022021\/139218",
+  "ApplicantName": "JHANTU BAGDI",
+  "FatherName": "SUKUMAR BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "SHASHPUR",
+  "GP": "SHASHPUR",
+  "MainSl": 331,
+  "person": "bsk"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "SCWB13022021\/128471",
+  "ApplicantName": "SUJAN BAGDI",
+  "FatherName": "DINABANDHU BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "PALASHI",
+  "GP": "SHASHPUR",
+  "MainSl": 332,
+  "person": "bsk"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "SCWB13022021\/132313",
+  "ApplicantName": "BIJAY BAGDI",
+  "FatherName": "LATE SANATAN BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 333,
+  "person": "bsk"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "SCWB13022021\/70084",
+  "ApplicantName": "SUROJIT RUIDAS",
+  "FatherName": "SRIKANTA RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "PALASHI",
+  "GP": "SAHASPUR",
+  "MainSl": 334,
+  "person": "bsk"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "SCWB13022021\/121479",
+  "ApplicantName": "ASIM RUIDAS",
+  "FatherName": "BALAI RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "BANBERIA",
+  "GP": "SAHASPUR GRAM PANCHAYAT",
+  "MainSl": 335,
+  "person": "bsk"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "SCWB13022021\/44641",
+  "ApplicantName": "AJAY DAS",
+  "FatherName": "LATE SANTOSH DAS",
+  "SubCaste": "JALIA KAIBARTTA",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 336,
+  "person": "bsk"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "SCWB13022021\/126503",
+  "ApplicantName": "SANJU RUIDAS",
+  "FatherName": "KARTIK RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "DHAMUR",
+  "GP": "SHASHPUR",
+  "MainSl": 337,
+  "person": "bsk"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "SCWB13022021\/121675",
+  "ApplicantName": "BIKASH BAGDI",
+  "FatherName": "HARU BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "HIYAT NAGAR",
+  "GP": "INDUS 2NO",
+  "MainSl": 338,
+  "person": "bsk"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "SCWB13022021\/123701",
+  "ApplicantName": "UJJAL SANTRA",
+  "FatherName": "SWAPAN SANTRA",
+  "SubCaste": "BAGDI",
+  "Village": "AUSHNARA",
+  "GP": "INDAS II",
+  "MainSl": 339,
+  "person": "bsk"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "SCWB13022021\/124569",
+  "ApplicantName": "SUKUMAR RUIDAS",
+  "FatherName": "GANGA RUIDAS",
+  "SubCaste": "MUCHI",
+  "Village": "DHAMUR",
+  "GP": "SAHASPUR",
+  "MainSl": 340,
+  "person": "bsk"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "SCWB13022021\/135279",
+  "ApplicantName": "RAJKUMAR RANA",
+  "FatherName": "KHUDIRAM RANA",
+  "SubCaste": "DOM",
+  "Village": "GOALA PUSHKARINI",
+  "GP": "SHASHPUR",
+  "MainSl": 341,
+  "person": "bsk"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "SCWB13022021\/133642",
+  "ApplicantName": "PARESH BAGDI",
+  "FatherName": "LABANI CHANDRA BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "KHARRAH",
+  "GP": "SAHASPUR",
+  "MainSl": 342,
+  "person": "bsk"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "SCWB13022021\/120691",
+  "ApplicantName": "AMRITA BAGDI",
+  "FatherName": "AMIT BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DONGALAN",
+  "GP": "SAHASPUR",
+  "MainSl": 343,
+  "person": "bsk"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "SCWB13022021\/69361",
+  "ApplicantName": "MONOSA KALINDI",
+  "FatherName": "UTPAL KALINDI",
+  "SubCaste": "DOM",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 344,
+  "person": "bsk"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "SCWB13022021\/54747",
+  "ApplicantName": "MADHAB MALIK",
+  "FatherName": "LATE KHANDU MALIK",
+  "SubCaste": "DOM",
+  "Village": "DONGALON",
+  "GP": "SHASHPUR",
+  "MainSl": 345,
+  "person": "bsk"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "SCWB13022021\/93298",
+  "ApplicantName": "SHRIKANTA HAJRA",
+  "FatherName": "ATISH HAJRA",
+  "SubCaste": "BAGDI",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 346,
+  "person": "bsk"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "SCWB13022021\/26659",
+  "ApplicantName": "BRISTI PATRA",
+  "FatherName": "BHAIRAV PATRA",
+  "SubCaste": "DOM",
+  "Village": "FATEPUR",
+  "GP": "KARISUNDA",
+  "MainSl": 347,
+  "person": "bsk"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "SCWB13022021\/149377",
+  "ApplicantName": "BAPAN BAGDI",
+  "FatherName": "ANIL BAGDI",
+  "SubCaste": "BAGDI",
+  "Village": "DASARATH BATI",
+  "GP": "KARISUNDA",
+  "MainSl": 348,
+  "person": "bsk"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "SCWB13022021\/142295",
+  "ApplicantName": "HABAL DAS",
+  "FatherName": "PATILAL DAS",
+  "SubCaste": "BAGDI",
+  "Village": "GOPALNAGAR",
+  "GP": "ROL",
+  "MainSl": 349,
+  "person": "bsk"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "SCWB13022021\/95314",
+  "ApplicantName": "SOUVIK MAJHI",
+  "FatherName": "SHANTI GOPAL MAJHI",
+  "SubCaste": "BAGDI",
+  "Village": "JAGALDWIP",
+  "GP": "KARISUNDA",
+  "MainSl": 350,
+  "person": "bsk"
+ }
+],
+"serv":[
+ {
+  "Sl": 1,
+  "ApplicationId": "SCWB13022021\/158138",
+  "ApplicantName": "SURAJIT BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 2,
+  "ApplicationId": "SCWB13022021\/125183",
+  "ApplicantName": "INDIRA DEBSARMA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 3,
+  "ApplicationId": "SCWB13022021\/142418",
+  "ApplicantName": "BIKASH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 4,
+  "ApplicationId": "SCWB13022021\/98657",
+  "ApplicantName": "RAJA RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 5,
+  "ApplicationId": "SCWB13022021\/125642",
+  "ApplicantName": "MUKTARAM BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 6,
+  "ApplicationId": "SCWB13022021\/108522",
+  "ApplicantName": "UTTAM RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 7,
+  "ApplicationId": "SCWB13022021\/9274",
+  "ApplicantName": "RAJIB DOM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 8,
+  "ApplicationId": "SCWB13022021\/118708",
+  "ApplicantName": "NETAI RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 9,
+  "ApplicationId": "SCWB13022021\/110151",
+  "ApplicantName": "MANGAL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 10,
+  "ApplicationId": "SCWB13022021\/88077",
+  "ApplicantName": "NIMAI PATRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 11,
+  "ApplicationId": "SCWB13022021\/111037",
+  "ApplicantName": "NANTI BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 12,
+  "ApplicationId": "SCWB13022021\/126026",
+  "ApplicantName": "RABINDRA NATH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 13,
+  "ApplicationId": "SCWB13022021\/125272",
+  "ApplicantName": "DEB BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 14,
+  "ApplicationId": "SCWB13022021\/155537",
+  "ApplicantName": "LILU ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 15,
+  "ApplicationId": "SCWB13022021\/108104",
+  "ApplicantName": "BIBEK BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 16,
+  "ApplicationId": "SCWB13022021\/159605",
+  "ApplicantName": "CHANDAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 17,
+  "ApplicationId": "SCWB13022021\/96696",
+  "ApplicantName": "BISHTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 18,
+  "ApplicationId": "SCWB13022021\/147086",
+  "ApplicantName": "BILTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 19,
+  "ApplicationId": "SCWB13022021\/89834",
+  "ApplicantName": "HARADHAN PATRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 20,
+  "ApplicationId": "SCWB13022021\/152779",
+  "ApplicantName": "CHHOTTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 21,
+  "ApplicationId": "SCWB13022021\/155976",
+  "ApplicantName": "SACHI MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 22,
+  "ApplicationId": "SCWB13022021\/151831",
+  "ApplicantName": "MINTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 23,
+  "ApplicationId": "SCWB13022021\/153360",
+  "ApplicantName": "DHANANJOY BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 24,
+  "ApplicationId": "SCWB13022021\/95965",
+  "ApplicantName": "MADHUSUDAN ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 25,
+  "ApplicationId": "SCWB13022021\/160358",
+  "ApplicantName": "DILIP RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 26,
+  "ApplicationId": "SCWB13022021\/111846",
+  "ApplicantName": "RAMPRASAD RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 27,
+  "ApplicationId": "SCWB13022021\/105339",
+  "ApplicantName": "MANTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 28,
+  "ApplicationId": "SCWB13022021\/49109",
+  "ApplicantName": "RUPCHAND ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 29,
+  "ApplicationId": "SCWB13022021\/117593",
+  "ApplicantName": "NABAB DOM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 30,
+  "ApplicationId": "SCWB13022021\/115368",
+  "ApplicantName": "AMAR ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 31,
+  "ApplicationId": "SCWB13022021\/139609",
+  "ApplicantName": "LAKSHMAN BAG",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 32,
+  "ApplicationId": "SCWB13022021\/9263",
+  "ApplicantName": "SANJAY DOM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 33,
+  "ApplicationId": "SCWB13022021\/64262",
+  "ApplicantName": "KRISHNA RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 34,
+  "ApplicationId": "SCWB13022021\/132844",
+  "ApplicantName": "SRIMANTA HAZRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 35,
+  "ApplicationId": "SCWB13022021\/50276",
+  "ApplicantName": "PRABHAT BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 36,
+  "ApplicationId": "SCWB13022021\/82613",
+  "ApplicantName": "ASIT KUMAR BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 37,
+  "ApplicationId": "SCWB13022021\/83811",
+  "ApplicantName": "PRAKASH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 38,
+  "ApplicationId": "SCWB13022021\/99393",
+  "ApplicantName": "PRADIP ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 39,
+  "ApplicationId": "SCWB13022021\/132239",
+  "ApplicantName": "SWAPAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 40,
+  "ApplicationId": "SCWB13022021\/135022",
+  "ApplicantName": "PRASENJIT BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 41,
+  "ApplicationId": "SCWB13022021\/106400",
+  "ApplicantName": "SRIKANTA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 42,
+  "ApplicationId": "SCWB13022021\/141766",
+  "ApplicantName": "SANATAN KALINDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 43,
+  "ApplicationId": "SCWB13022021\/129406",
+  "ApplicantName": "UTTAM BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 44,
+  "ApplicationId": "SCWB13022021\/93520",
+  "ApplicantName": "RAJA DIGER",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 45,
+  "ApplicationId": "SCWB13022021\/141535",
+  "ApplicantName": "DULAL RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 46,
+  "ApplicationId": "SCWB13022021\/140654",
+  "ApplicantName": "SUBHASH CHANDRA DAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 47,
+  "ApplicationId": "SCWB13022021\/138354",
+  "ApplicantName": "PROMAS BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 48,
+  "ApplicationId": "SCWB13022021\/99530",
+  "ApplicantName": "KRISHNA ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 49,
+  "ApplicationId": "SCWB13022021\/92913",
+  "ApplicantName": "BAPAN PATRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 50,
+  "ApplicationId": "SCWB13022021\/152057",
+  "ApplicantName": "BACHAN MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 51,
+  "ApplicationId": "SCWB13022021\/152067",
+  "ApplicantName": "RAJESH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 52,
+  "ApplicationId": "SCWB13022021\/143325",
+  "ApplicantName": "HARADHAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 53,
+  "ApplicationId": "SCWB13022021\/144197",
+  "ApplicantName": "PRASHANTA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 54,
+  "ApplicationId": "SCWB13022021\/100887",
+  "ApplicantName": "BIKASH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 55,
+  "ApplicationId": "OBCWB13022021\/14119",
+  "ApplicantName": "SK GOLAP",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 56,
+  "ApplicationId": "OBCWB13022021\/14407",
+  "ApplicantName": "MALAY GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 57,
+  "ApplicationId": "OBCWB13022021\/12001",
+  "ApplicantName": "AFRIN KHATUN MIDDA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 58,
+  "ApplicationId": "OBCWB13022021\/17469",
+  "ApplicantName": "SEKH BASIRUDDIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 59,
+  "ApplicationId": "OBCWB13022021\/14208",
+  "ApplicantName": "JYOTI GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 60,
+  "ApplicationId": "OBCWB13022021\/10635",
+  "ApplicantName": "RUBINA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 61,
+  "ApplicationId": "OBCWB13022021\/12437",
+  "ApplicantName": "BASIRA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 62,
+  "ApplicationId": "OBCWB13022021\/13611",
+  "ApplicantName": "SK RIAZ",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 63,
+  "ApplicationId": "OBCWB13022021\/13825",
+  "ApplicantName": "AKASH GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 64,
+  "ApplicationId": "OBCWB13022015\/4883",
+  "ApplicantName": "MANIDIPA SULTANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 65,
+  "ApplicationId": "OBCWB13022021\/13988",
+  "ApplicantName": "JARINA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 66,
+  "ApplicationId": "OBCWB13022021\/11170",
+  "ApplicantName": "SK SABIR HOSSAIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 67,
+  "ApplicationId": "OBCWB13022021\/14279",
+  "ApplicantName": "SK LACLHAND",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 68,
+  "ApplicationId": "OBCWB13022021\/10637",
+  "ApplicantName": "SONIYA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 69,
+  "ApplicationId": "OBCWB13022021\/9317",
+  "ApplicantName": "SK BORJAHAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 70,
+  "ApplicationId": "OBCWB13022021\/13962",
+  "ApplicantName": "SANIA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 71,
+  "ApplicationId": "OBCWB13022021\/13461",
+  "ApplicantName": "NASRIN PARVIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 72,
+  "ApplicationId": "OBCWB13022021\/13666",
+  "ApplicantName": "SAHIBA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 73,
+  "ApplicationId": "OBCWB13022021\/10940",
+  "ApplicantName": "SK AZHARUDDIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 74,
+  "ApplicationId": "OBCWB13022021\/13667",
+  "ApplicantName": "SK YOUSUF",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 75,
+  "ApplicationId": "OBCWB13022021\/11997",
+  "ApplicantName": "RIYAJ HOSSAIN MIDYA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 76,
+  "ApplicationId": "OBCWB13022021\/12725",
+  "ApplicantName": "RUPSA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 77,
+  "ApplicationId": "OBCWB13022021\/13071",
+  "ApplicantName": "SIRAJUL HOSSAIN MALLIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 78,
+  "ApplicationId": "OBCWB13022021\/12738",
+  "ApplicantName": "SAIFUL MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 79,
+  "ApplicationId": "OBCWB13022021\/13508",
+  "ApplicantName": "KAZI SAIDUL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 80,
+  "ApplicationId": "OBCWB13022021\/11169",
+  "ApplicantName": "SK SAHIDUL HOSSAIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 81,
+  "ApplicationId": "OBCWB13022021\/10134",
+  "ApplicantName": "SK AKIB HOSSAIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 82,
+  "ApplicationId": "OBCWB13022021\/13980",
+  "ApplicantName": "SEKH NAZRUL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 83,
+  "ApplicationId": "OBCWB13022021\/13668",
+  "ApplicantName": "KUTUBUDDIN MONDAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 84,
+  "ApplicationId": "OBCWB13022021\/13670",
+  "ApplicantName": "FENCY KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 85,
+  "ApplicationId": "OBCWB13022021\/14121",
+  "ApplicantName": "PAYEL GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 86,
+  "ApplicationId": "OBCWB13022021\/11456",
+  "ApplicantName": "ANJURA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 87,
+  "ApplicationId": "OBCWB13022021\/14274",
+  "ApplicantName": "SEKH PARVIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 88,
+  "ApplicationId": "OBCWB13022021\/14078",
+  "ApplicantName": "SEKH FEROZ",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 89,
+  "ApplicationId": "OBCWB13022021\/12931",
+  "ApplicantName": "SK ALAUDDIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 90,
+  "ApplicationId": "OBCWB13022021\/13005",
+  "ApplicantName": "SK SAHAJAHAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 91,
+  "ApplicationId": "OBCWB13022021\/15076",
+  "ApplicantName": "SK ATIYAR RAHAMAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 92,
+  "ApplicationId": "OBCWB13022021\/13761",
+  "ApplicantName": "SK YEASIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 93,
+  "ApplicationId": "OBCWB13022021\/11916",
+  "ApplicantName": "FULMONI BEGAM SK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 94,
+  "ApplicationId": "OBCWB13022021\/9965",
+  "ApplicantName": "SURIYA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 95,
+  "ApplicationId": "OBCWB13022021\/12818",
+  "ApplicantName": "TAIHID MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 96,
+  "ApplicationId": "OBCWB13022021\/8027",
+  "ApplicantName": "NIRMAL KUMAR GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 97,
+  "ApplicationId": "OBCWB13022021\/8028",
+  "ApplicantName": "KIRAN KUMAR GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 98,
+  "ApplicationId": "OBCWB13022021\/10892",
+  "ApplicantName": "SEKH SAPIUR RAHAMAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 99,
+  "ApplicationId": "OBCWB13022021\/10901",
+  "ApplicantName": "SEKH TOWFIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 100,
+  "ApplicationId": "OBCWB13022021\/12084",
+  "ApplicantName": "HRIDAY PAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 101,
+  "ApplicationId": "OBCWB13022021\/12090",
+  "ApplicantName": "SANCHITA PAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 102,
+  "ApplicationId": "OBCWB13022021\/13442",
+  "ApplicantName": "KERAMATALI SEKH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 103,
+  "ApplicationId": "OBCWB13022021\/14007",
+  "ApplicantName": "RUBINA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 104,
+  "ApplicationId": "OBCWB13022021\/12971",
+  "ApplicantName": "SK SALMAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 105,
+  "ApplicationId": "OBCWB13022021\/12533",
+  "ApplicantName": "HAMIDA SULTANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 106,
+  "ApplicationId": "OBCWB13022021\/18021",
+  "ApplicantName": "SK GOLAM JIKRIYA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 107,
+  "ApplicationId": "OBCWB13022021\/10587",
+  "ApplicantName": "AHANA DEY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 108,
+  "ApplicationId": "OBCWB13022021\/14394",
+  "ApplicantName": "NITYANADA GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 109,
+  "ApplicationId": "OBCWB13022021\/14794",
+  "ApplicantName": "SHYAMA PROSAD DAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 110,
+  "ApplicationId": "OBCWB13022021\/15703",
+  "ApplicantName": "INAMUL HAQUE MALLIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 111,
+  "ApplicationId": "OBCWB13022021\/15719",
+  "ApplicantName": "NASIRUL HAQUE MALLIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 112,
+  "ApplicationId": "OBCWB13022021\/17275",
+  "ApplicantName": "SALMA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 113,
+  "ApplicationId": "OBCWB13022021\/12564",
+  "ApplicantName": "TASLIM MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 114,
+  "ApplicationId": "OBCWB13022021\/12549",
+  "ApplicantName": "HADISA SULTANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 115,
+  "ApplicationId": "OBCWB13022021\/18008",
+  "ApplicantName": "TAJNIHARA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 116,
+  "ApplicationId": "OBCWB13022021\/13242",
+  "ApplicantName": "SUSMITA KHAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 117,
+  "ApplicationId": "OBCWB13022021\/12914",
+  "ApplicantName": "SK ABID HASSAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 118,
+  "ApplicationId": "OBCWB13022021\/10766",
+  "ApplicantName": "SK SAHIDUL ISLAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 119,
+  "ApplicationId": "OBCWB13022021\/12274",
+  "ApplicantName": "FULTUSI KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 120,
+  "ApplicationId": "OBCWB13022021\/12899",
+  "ApplicantName": "SUHANA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 121,
+  "ApplicationId": "OBCWB13022021\/14399",
+  "ApplicantName": "HASIB MIDYA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 122,
+  "ApplicationId": "OBCWB13022021\/7468",
+  "ApplicantName": "ABHIJIT GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 123,
+  "ApplicationId": "OBCWB13022021\/10120",
+  "ApplicantName": "ANISHA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 124,
+  "ApplicationId": "OBCWB13022021\/10118",
+  "ApplicantName": "YASIN MONDAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 125,
+  "ApplicationId": "OBCWB13022021\/12933",
+  "ApplicantName": "SK RIAJUDDIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 126,
+  "ApplicationId": "OBCWB13022021\/10722",
+  "ApplicantName": "ASMANTARA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 127,
+  "ApplicationId": "OBCWB13022021\/12418",
+  "ApplicantName": "MABUDA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 128,
+  "ApplicationId": "OBCWB13022021\/11962",
+  "ApplicantName": "KAMRUNNESHA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 129,
+  "ApplicationId": "OBCWB13022021\/9844",
+  "ApplicantName": "SK IMTIAZ",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 130,
+  "ApplicationId": "OBCWB13022021\/12382",
+  "ApplicantName": "SEKH ISANUR",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 131,
+  "ApplicationId": "OBCWB13022021\/14008",
+  "ApplicantName": "SEKH HABIBUR",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 132,
+  "ApplicationId": "OBCWB13022021\/13803",
+  "ApplicantName": "ARMIN KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 133,
+  "ApplicationId": "OBCWB13022021\/11285",
+  "ApplicantName": "SK MOJAFFOR ALI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 134,
+  "ApplicationId": "OBCWB13022021\/9843",
+  "ApplicantName": "AZIZUL SEKH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 135,
+  "ApplicationId": "OBCWB13022021\/12111",
+  "ApplicantName": "OLI MAHAMMAD MOLLA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 136,
+  "ApplicationId": "OBCWB13022021\/13838",
+  "ApplicantName": "SEKH ABUL KALAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 137,
+  "ApplicationId": "OBCWB13022021\/12270",
+  "ApplicantName": "AJIMUNNASHA SK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 138,
+  "ApplicationId": "OBCWB13022021\/13716",
+  "ApplicantName": "SINTU SEKH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 139,
+  "ApplicationId": "OBCWB13022021\/13239",
+  "ApplicantName": "MEHERUNNESHA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 140,
+  "ApplicationId": "OBCWB13022021\/11274",
+  "ApplicantName": "SOUMIK PAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 141,
+  "ApplicationId": "OBCWB13022021\/13349",
+  "ApplicantName": "ROJINA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 142,
+  "ApplicationId": "OBCWB13022021\/11251",
+  "ApplicantName": "MEHER MIDDYA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 143,
+  "ApplicationId": "OBCWB13022021\/11695",
+  "ApplicantName": "ASMIM KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 144,
+  "ApplicationId": "OBCWB13022021\/13900",
+  "ApplicantName": "SAHINA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 145,
+  "ApplicationId": "SCWB13022021\/147759",
+  "ApplicantName": "TARAKNATH MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 146,
+  "ApplicationId": "SCWB13022021\/80823",
+  "ApplicantName": "PRASANTA SANTRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 147,
+  "ApplicationId": "SCWB13022021\/149191",
+  "ApplicantName": "BAKUL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 148,
+  "ApplicationId": "SCWB13022021\/53037",
+  "ApplicantName": "HARADHAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 149,
+  "ApplicationId": "SCWB13022021\/103827",
+  "ApplicantName": "BIMAL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 150,
+  "ApplicationId": "SCWB13022021\/157234",
+  "ApplicantName": "JIBAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 151,
+  "ApplicationId": "SCWB13022021\/158121",
+  "ApplicantName": "MANTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 152,
+  "ApplicationId": "SCWB13022021\/136539",
+  "ApplicantName": "KARTIK BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 153,
+  "ApplicationId": "SCWB13022021\/160991",
+  "ApplicantName": "LAKSHMI NARAYAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 154,
+  "ApplicationId": "SCWB13022021\/157244",
+  "ApplicantName": "LAB BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 155,
+  "ApplicationId": "SCWB13022021\/150389",
+  "ApplicantName": "MRITTUNJAY RANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 156,
+  "ApplicationId": "SCWB13022021\/154845",
+  "ApplicantName": "TARAKNATH RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 157,
+  "ApplicationId": "SCWB13022021\/132498",
+  "ApplicantName": "SUSANTA ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 158,
+  "ApplicationId": "SCWB13022021\/110857",
+  "ApplicantName": "SURYA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 159,
+  "ApplicationId": "SCWB13022021\/158032",
+  "ApplicantName": "SUBHASH ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 160,
+  "ApplicationId": "SCWB13022021\/159658",
+  "ApplicantName": "JAGABANDHU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 161,
+  "ApplicationId": "SCWB13022021\/160127",
+  "ApplicantName": "TOTAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 162,
+  "ApplicationId": "SCWB13022021\/160056",
+  "ApplicantName": "CHANDAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 163,
+  "ApplicationId": "SCWB13022021\/158296",
+  "ApplicantName": "SUKUMAR MALIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 164,
+  "ApplicationId": "SCWB13022021\/159858",
+  "ApplicantName": "PARTHA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 165,
+  "ApplicationId": "SCWB13022021\/160997",
+  "ApplicantName": "BIDYUT BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 166,
+  "ApplicationId": "SCWB13022021\/156208",
+  "ApplicantName": "TULSI MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 167,
+  "ApplicationId": "SCWB13022021\/61605",
+  "ApplicantName": "SWARUP MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 168,
+  "ApplicationId": "SCWB13022021\/106465",
+  "ApplicantName": "SANJIB BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 169,
+  "ApplicationId": "SCWB13022021\/104594",
+  "ApplicantName": "TAPAS BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 170,
+  "ApplicationId": "SCWB13022015\/4960",
+  "ApplicantName": "SUBRATA SANTRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 171,
+  "ApplicationId": "SCWB13022021\/114138",
+  "ApplicantName": "BAKUL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 172,
+  "ApplicationId": "SCWB13022021\/47933",
+  "ApplicantName": "BABU RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 173,
+  "ApplicationId": "SCWB13022021\/102180",
+  "ApplicantName": "KARTICK BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 174,
+  "ApplicationId": "SCWB13022021\/64201",
+  "ApplicantName": "JEEVAN MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 175,
+  "ApplicationId": "SCWB13022021\/84091",
+  "ApplicantName": "RINA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 176,
+  "ApplicationId": "SCWB13022021\/85274",
+  "ApplicantName": "GANAPATI RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 177,
+  "ApplicationId": "SCWB13022021\/82450",
+  "ApplicantName": "MATHURA RAJAK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 178,
+  "ApplicationId": "SCWB13022021\/66271",
+  "ApplicantName": "BIBHAS BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 179,
+  "ApplicationId": "SCWB13022021\/141431",
+  "ApplicantName": "SUMAN METE",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 180,
+  "ApplicationId": "SCWB13022021\/102525",
+  "ApplicantName": "SHYAM RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 181,
+  "ApplicationId": "SCWB13022021\/84154",
+  "ApplicantName": "SANJAY BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 182,
+  "ApplicationId": "SCWB13022021\/108374",
+  "ApplicantName": "TAPASRUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 183,
+  "ApplicationId": "SCWB13022021\/112417",
+  "ApplicantName": "DEBU RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 184,
+  "ApplicationId": "SCWB13022021\/124354",
+  "ApplicantName": "DASHARATH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 185,
+  "ApplicationId": "SCWB13022021\/147593",
+  "ApplicantName": "MANGAL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 186,
+  "ApplicationId": "SCWB13022021\/56101",
+  "ApplicantName": "GOPAL MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 187,
+  "ApplicationId": "SCWB13022021\/84897",
+  "ApplicantName": "SAYAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 188,
+  "ApplicationId": "SCWB13022021\/114056",
+  "ApplicantName": "ABHIJIT RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 189,
+  "ApplicationId": "SCWB13022021\/84959",
+  "ApplicantName": "KARTICK RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 190,
+  "ApplicationId": "SCWB13022021\/44888",
+  "ApplicantName": "GANESH CHANDRA RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 191,
+  "ApplicationId": "SCWB13022021\/107944",
+  "ApplicantName": "SWAPAN MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 192,
+  "ApplicationId": "SCWB13022021\/146026",
+  "ApplicantName": "SHIMUL BISWAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 193,
+  "ApplicationId": "SCWB13022021\/139643",
+  "ApplicantName": "LALTU PRAMANIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 194,
+  "ApplicationId": "SCWB13022021\/43083",
+  "ApplicantName": "ESHIKA PRAMANIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 195,
+  "ApplicationId": "SCWB13022021\/43220",
+  "ApplicantName": "KOLEJ ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 196,
+  "ApplicationId": "SCWB13022021\/46694",
+  "ApplicantName": "RETWIKA PRAMANIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 197,
+  "ApplicationId": "SCWB13022021\/42834",
+  "ApplicantName": "SASHTI MALIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 198,
+  "ApplicationId": "SCWB13022021\/131672",
+  "ApplicantName": "KARTIK BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 199,
+  "ApplicationId": "SCWB13022021\/121904",
+  "ApplicantName": "SAHEB DIGER",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 200,
+  "ApplicationId": "SCWB13022021\/65322",
+  "ApplicantName": "MONAJIT RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 201,
+  "ApplicationId": "SCWB13022021\/132327",
+  "ApplicantName": "KALIPADA RAY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 202,
+  "ApplicationId": "SCWB13022021\/60247",
+  "ApplicantName": "MADAN METE",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 203,
+  "ApplicationId": "SCWB13022021\/144936",
+  "ApplicantName": "MOHAN RANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 204,
+  "ApplicationId": "SCWB13022021\/121378",
+  "ApplicantName": "MANTU DHARA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 205,
+  "ApplicationId": "SCWB13022021\/104724",
+  "ApplicantName": "GANESH RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 206,
+  "ApplicationId": "SCWB13022021\/133013",
+  "ApplicantName": "UTTAM ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 207,
+  "ApplicationId": "SCWB13022021\/70889",
+  "ApplicantName": "TAPAN DHARA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 208,
+  "ApplicationId": "SCWB13022021\/136165",
+  "ApplicantName": "UTTAM DHARA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 209,
+  "ApplicationId": "SCWB13022021\/133335",
+  "ApplicantName": "MANTU RAY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 210,
+  "ApplicationId": "SCWB13022021\/133235",
+  "ApplicantName": "SAHEB ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 211,
+  "ApplicationId": "SCWB13022021\/131514",
+  "ApplicantName": "JOYKRISHNA SANTRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 212,
+  "ApplicationId": "SCWB13022021\/154426",
+  "ApplicantName": "SHYAMSUNDAR BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 213,
+  "ApplicationId": "SCWB13022021\/143233",
+  "ApplicantName": "HARADHAN ROY BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 214,
+  "ApplicationId": "SCWB13022021\/160187",
+  "ApplicantName": "SAGAR RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 215,
+  "ApplicationId": "SCWB13022021\/153906",
+  "ApplicantName": "MILAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 216,
+  "ApplicationId": "SCWB13022021\/145098",
+  "ApplicantName": "SHASHTHI BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 217,
+  "ApplicationId": "SCWB13022021\/150028",
+  "ApplicantName": "SHIBA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 218,
+  "ApplicationId": "SCWB13022021\/156964",
+  "ApplicantName": "SHIBU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 219,
+  "ApplicationId": "SCWB13022019\/6591",
+  "ApplicantName": "DIPA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 220,
+  "ApplicationId": "SCWB13022021\/35108",
+  "ApplicantName": "RAKESH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 221,
+  "ApplicationId": "SCWB13022021\/158903",
+  "ApplicantName": "KUSHADHWAJ BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 222,
+  "ApplicationId": "SCWB13022021\/131042",
+  "ApplicantName": "NISHITH ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 223,
+  "ApplicationId": "SCWB13022021\/131288",
+  "ApplicantName": "SWAYAN ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 224,
+  "ApplicationId": "SCWB13022021\/128858",
+  "ApplicantName": "ASIT ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 225,
+  "ApplicationId": "SCWB13022021\/56961",
+  "ApplicantName": "SANATAN RAJAK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 226,
+  "ApplicationId": "SCWB13022021\/35052",
+  "ApplicantName": "RAJESH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 227,
+  "ApplicationId": "SCWB13022021\/136089",
+  "ApplicantName": "BADAL ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 228,
+  "ApplicationId": "SCWB13022021\/127649",
+  "ApplicantName": "ARINDAM PATRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 229,
+  "ApplicationId": "SCWB13022021\/136935",
+  "ApplicantName": "SHRIKANTA ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 230,
+  "ApplicationId": "SCWB13022021\/135933",
+  "ApplicantName": "KANAI RAY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 231,
+  "ApplicationId": "SCWB13022021\/95996",
+  "ApplicantName": "JAHAR MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 232,
+  "ApplicationId": "SCWB13022021\/139253",
+  "ApplicantName": "DHANANJAY MALIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 233,
+  "ApplicationId": "SCWB13022021\/97864",
+  "ApplicantName": "SAMPAD MAJI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 234,
+  "ApplicationId": "SCWB13022021\/24520",
+  "ApplicantName": "SUVO MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 235,
+  "ApplicationId": "SCWB13022021\/125985",
+  "ApplicantName": "SAYAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 236,
+  "ApplicationId": "SCWB13022021\/82248",
+  "ApplicantName": "RABI ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 237,
+  "ApplicationId": "SCWB13022021\/117503",
+  "ApplicantName": "SUBHASHREE MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 238,
+  "ApplicationId": "SCWB13022021\/110020",
+  "ApplicantName": "ASWINI RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 239,
+  "ApplicationId": "SCWB13022021\/133900",
+  "ApplicantName": "BHADU RAY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 240,
+  "ApplicationId": "SCWB13022021\/128541",
+  "ApplicantName": "KRISHNA ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 241,
+  "ApplicationId": "SCWB13022021\/130292",
+  "ApplicantName": "ASHOK ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 242,
+  "ApplicationId": "SCWB13022021\/124601",
+  "ApplicantName": "MADAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 243,
+  "ApplicationId": "SCWB13022021\/156260",
+  "ApplicantName": "MADAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 244,
+  "ApplicationId": "SCWB13022021\/131427",
+  "ApplicantName": "ARUN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 245,
+  "ApplicationId": "SCWB13022021\/153964",
+  "ApplicantName": "ASHIS RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 246,
+  "ApplicationId": "SCWB13022021\/144800",
+  "ApplicantName": "BISWAJIT BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 247,
+  "ApplicationId": "SCWB13022021\/151816",
+  "ApplicantName": "KUNAL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 248,
+  "ApplicationId": "SCWB13022021\/161071",
+  "ApplicantName": "BANSHI MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 249,
+  "ApplicationId": "SCWB13022021\/160979",
+  "ApplicantName": "BAKUL BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 250,
+  "ApplicationId": "SCWB13022021\/128704",
+  "ApplicantName": "MANTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 251,
+  "ApplicationId": "SCWB13022021\/149818",
+  "ApplicantName": "SIDHU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 252,
+  "ApplicationId": "SCWB13022021\/154139",
+  "ApplicantName": "UMACHARAN RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 253,
+  "ApplicationId": "SCWB13022021\/154389",
+  "ApplicantName": "SHANTI RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 254,
+  "ApplicationId": "SCWB13022021\/82487",
+  "ApplicantName": "TAPAS BARESH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 255,
+  "ApplicationId": "SCWB13022021\/61506",
+  "ApplicantName": "SUPRIYO METE",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 256,
+  "ApplicationId": "SCWB13022021\/64846",
+  "ApplicantName": "NARAN PATRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 257,
+  "ApplicationId": "SCWB13022021\/155484",
+  "ApplicantName": "SAYAN DULEY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 258,
+  "ApplicationId": "SCWB13022021\/123830",
+  "ApplicantName": "PALASH MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 259,
+  "ApplicationId": "SCWB13022021\/86032",
+  "ApplicantName": "SHACHI BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 260,
+  "ApplicationId": "SCWB13022021\/144144",
+  "ApplicantName": "RAJ BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 261,
+  "ApplicationId": "SCWB13022021\/159262",
+  "ApplicantName": "BAMA CHARAN ROY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 262,
+  "ApplicationId": "SCWB13022021\/110316",
+  "ApplicantName": "DHANANJAY BAGDY",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 263,
+  "ApplicationId": "SCWB13022021\/83547",
+  "ApplicantName": "RAMPADA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 264,
+  "ApplicationId": "SCWB13022021\/85241",
+  "ApplicantName": "APU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 265,
+  "ApplicationId": "SCWB13022021\/125003",
+  "ApplicantName": "JAGANATH DHARA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 266,
+  "ApplicationId": "SCWB13022021\/54779",
+  "ApplicantName": "SHIBU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 267,
+  "ApplicationId": "SCWB13022021\/142402",
+  "ApplicantName": "SUBHA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 268,
+  "ApplicationId": "SCWB13022021\/37278",
+  "ApplicantName": "SANNYASHI RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 269,
+  "ApplicationId": "SCWB13022021\/67340",
+  "ApplicantName": "SUBHOJIT RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 270,
+  "ApplicationId": "SCWB13022021\/136185",
+  "ApplicantName": "RADHAKANTA KHAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 271,
+  "ApplicationId": "SCWB13022021\/115018",
+  "ApplicantName": "ANKITA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 272,
+  "ApplicationId": "SCWB13022021\/121840",
+  "ApplicantName": "ASIT KUMAR RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 273,
+  "ApplicationId": "SCWB13022021\/103926",
+  "ApplicantName": "GANESH CHANDRA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 274,
+  "ApplicationId": "SCWB13022021\/116507",
+  "ApplicantName": "TOTON BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 275,
+  "ApplicationId": "SCWB13022021\/136665",
+  "ApplicantName": "SANJOY BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 276,
+  "ApplicationId": "SCWB13022021\/48805",
+  "ApplicantName": "SHYAMAL RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 277,
+  "ApplicationId": "SCWB13022021\/131142",
+  "ApplicantName": "JOYDEB BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 278,
+  "ApplicationId": "SCWB13022021\/120798",
+  "ApplicantName": "SUROJIT BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 279,
+  "ApplicationId": "SCWB13022021\/120921",
+  "ApplicantName": "APARNA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 280,
+  "ApplicationId": "SCWB13022021\/135171",
+  "ApplicantName": "DEBJANI RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 281,
+  "ApplicationId": "SCWB13022021\/136733",
+  "ApplicantName": "SUBHASH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 282,
+  "ApplicationId": "SCWB13022021\/138423",
+  "ApplicantName": "RABI MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 283,
+  "ApplicationId": "SCWB13022021\/123407",
+  "ApplicantName": "SANJAY MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 284,
+  "ApplicationId": "SCWB13022021\/135068",
+  "ApplicantName": "SANCHITA RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 285,
+  "ApplicationId": "SCWB13022021\/139218",
+  "ApplicantName": "JHANTU BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 286,
+  "ApplicationId": "SCWB13022021\/121675",
+  "ApplicantName": "BIKASH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 287,
+  "ApplicationId": "SCWB13022021\/132313",
+  "ApplicantName": "BIJAY BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 288,
+  "ApplicationId": "SCWB13022021\/128471",
+  "ApplicantName": "SUJAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 289,
+  "ApplicationId": "SCWB13022021\/70084",
+  "ApplicantName": "SUROJIT RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 290,
+  "ApplicationId": "SCWB13022021\/121479",
+  "ApplicantName": "ASIM RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 291,
+  "ApplicationId": "SCWB13022021\/44641",
+  "ApplicantName": "AJAY DAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 292,
+  "ApplicationId": "SCWB13022021\/126503",
+  "ApplicantName": "SANJU RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 293,
+  "ApplicationId": "SCWB13022021\/124569",
+  "ApplicantName": "SUKUMAR RUIDAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 294,
+  "ApplicationId": "SCWB13022021\/123701",
+  "ApplicantName": "UJJAL SANTRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 295,
+  "ApplicationId": "SCWB13022021\/135279",
+  "ApplicantName": "RAJKUMAR RANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 296,
+  "ApplicationId": "SCWB13022021\/26659",
+  "ApplicantName": "BRISTI PATRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 297,
+  "ApplicationId": "SCWB13022021\/133642",
+  "ApplicantName": "PARESH BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 298,
+  "ApplicationId": "SCWB13022021\/120691",
+  "ApplicantName": "AMRITA BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 299,
+  "ApplicationId": "SCWB13022021\/69361",
+  "ApplicantName": "MONOSA KALINDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 300,
+  "ApplicationId": "SCWB13022021\/149377",
+  "ApplicantName": "BAPAN BAGDI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 301,
+  "ApplicationId": "SCWB13022021\/54747",
+  "ApplicantName": "MADHAB MALIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 302,
+  "ApplicationId": "SCWB13022021\/93298",
+  "ApplicantName": "SHRIKANTA HAJRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 303,
+  "ApplicationId": "SCWB13022021\/142295",
+  "ApplicantName": "HABAL DAS",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 304,
+  "ApplicationId": "SCWB13022021\/95314",
+  "ApplicantName": "SOUVIK MAJHI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 305,
+  "ApplicationId": "OBCWB13022021\/12139",
+  "ApplicantName": "SAMSUR NEHAR MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 306,
+  "ApplicationId": "OBCWB13022021\/11168",
+  "ApplicantName": "ACHINTA KARMAKAR",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 307,
+  "ApplicationId": "OBCWB13022021\/13708",
+  "ApplicantName": "RINKU DE DUTTA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 308,
+  "ApplicationId": "OBCWB13022021\/11649",
+  "ApplicantName": "SK AJFAR ALI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 309,
+  "ApplicationId": "OBCWB13022021\/12158",
+  "ApplicantName": "SAHID MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 310,
+  "ApplicationId": "OBCWB13022021\/12670",
+  "ApplicantName": "PAPIYA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 311,
+  "ApplicationId": "OBCWB13022021\/11804",
+  "ApplicantName": "REEJUANA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 312,
+  "ApplicationId": "OBCWB13022021\/13104",
+  "ApplicantName": "AMIT MONDAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 313,
+  "ApplicationId": "OBCWB13022021\/10753",
+  "ApplicantName": "SONALI KARMAKAR",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 314,
+  "ApplicationId": "OBCWB13022021\/14452",
+  "ApplicantName": "ANAM KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 315,
+  "ApplicationId": "OBCWB13022021\/12304",
+  "ApplicantName": "PRABHAT KARMAKAR",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 316,
+  "ApplicationId": "OBCWB13022021\/9960",
+  "ApplicantName": "MRINMAY MONDAL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 317,
+  "ApplicationId": "OBCWB13022018\/3328",
+  "ApplicantName": "AKLIMA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 318,
+  "ApplicationId": "OBCWB13022021\/13265",
+  "ApplicantName": "BOBY CHANDRA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 319,
+  "ApplicationId": "OBCWB13022018\/4023",
+  "ApplicantName": "NURSUMA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 320,
+  "ApplicationId": "OBCWB13022021\/11007",
+  "ApplicantName": "AFRIN ISLAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 321,
+  "ApplicationId": "OBCWB13022021\/14283",
+  "ApplicantName": "MD AJIJUR RAHAMAN MALLIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 322,
+  "ApplicationId": "OBCWB13022021\/9751",
+  "ApplicantName": "KHADIJA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 323,
+  "ApplicationId": "OBCWB13022021\/5492",
+  "ApplicantName": "RAJIB LAYEK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 324,
+  "ApplicationId": "OBCWB13022021\/9914",
+  "ApplicantName": "JESMIN KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 325,
+  "ApplicationId": "OBCWB13022021\/13808",
+  "ApplicantName": "SAMIRUDDIN MALLIK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 326,
+  "ApplicationId": "OBCWB13022021\/12046",
+  "ApplicantName": "SONALI BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 327,
+  "ApplicationId": "OBCWB13022021\/14152",
+  "ApplicantName": "SIMRAN SULTANA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 328,
+  "ApplicationId": "OBCWB13022021\/10670",
+  "ApplicantName": "JESHMIN KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 329,
+  "ApplicationId": "OBCWB13022021\/11459",
+  "ApplicantName": "TANYAR MIDYA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 330,
+  "ApplicationId": "OBCWB13022021\/20184",
+  "ApplicantName": "AHAN GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 331,
+  "ApplicationId": "OBCWB13022021\/13671",
+  "ApplicantName": "SARIFUDDIN MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 332,
+  "ApplicationId": "OBCWB13022021\/10816",
+  "ApplicantName": "SUMONA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 333,
+  "ApplicationId": "OBCWB13022021\/12238",
+  "ApplicantName": "AKASH GHOSH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 334,
+  "ApplicationId": "OBCWB13022021\/13866",
+  "ApplicantName": "SK MANIK CHAND",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 335,
+  "ApplicationId": "OBCWB13022021\/12937",
+  "ApplicantName": "RAJIB MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 336,
+  "ApplicationId": "OBCWB13022021\/14893",
+  "ApplicantName": "SK MD AZIM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 337,
+  "ApplicationId": "OBCWB13022021\/8761",
+  "ApplicantName": "PRIYA CHEL",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 338,
+  "ApplicationId": "OBCWB13022021\/12919",
+  "ApplicantName": "BABU MALLICK",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 339,
+  "ApplicationId": "OBCWB13022021\/10674",
+  "ApplicantName": "NASRIN KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 340,
+  "ApplicationId": "OBCWB13022021\/11368",
+  "ApplicantName": "KUTUBUDDIN MIDYA",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 341,
+  "ApplicationId": "OBCWB13022021\/13075",
+  "ApplicantName": "MAHIRA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 342,
+  "ApplicationId": "OBCWB13022021\/13215",
+  "ApplicantName": "SK IBRAHIM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 343,
+  "ApplicationId": "OBCWB13022021\/13658",
+  "ApplicantName": "SK TAHID",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 344,
+  "ApplicationId": "OBCWB13022021\/13069",
+  "ApplicantName": "SK SARAFUDDIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 345,
+  "ApplicationId": "OBCWB13022021\/13082",
+  "ApplicantName": "SK SAHID RAHAMAN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 346,
+  "ApplicationId": "OBCWB13022021\/12646",
+  "ApplicantName": "PARI KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 347,
+  "ApplicationId": "OBCWB13022021\/15013",
+  "ApplicantName": "SERINA BEGAM SEKH",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 348,
+  "ApplicationId": "OBCWB13022021\/14401",
+  "ApplicantName": "SK LMRAN HOSSAIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 349,
+  "ApplicationId": "OBCWB13022021\/10220",
+  "ApplicantName": "MOHOSINA BEGAM",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 350,
+  "ApplicationId": "OBCWB13022021\/15226",
+  "ApplicantName": "KASHMIRA KHATUN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 351,
+  "ApplicationId": "OBCWB13022019\/2878",
+  "ApplicantName": "NOURIN NIGAR",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 352,
+  "ApplicationId": "OBCWB13022021\/12845",
+  "ApplicantName": "SK IMRAJUDDN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 353,
+  "ApplicationId": "OBCWB13022021\/13638",
+  "ApplicantName": "SEKH MAJAHFAR ALI",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ },
+ {
+  "Sl": 354,
+  "ApplicationId": "OBCWB13022021\/14197",
+  "ApplicantName": "SABANA IASMIN",
+  "Date": "9\/2\/2022",
+  "ActionTaken": "Recommend for acceptance"
+ }
+]
+}
